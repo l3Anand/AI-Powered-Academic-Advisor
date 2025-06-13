@@ -1,0 +1,1001 @@
+student_id,gpa,interests,career_goal,learning_style,enrollment_date
+ST0000,2.875154903108356,"['Engineering', 'Arts']",Engineering,kinesthetic,2023-02-10
+ST0001,3.3171650572301576,"['Mathematics', 'Business']",Arts,kinesthetic,2024-06-27
+ST0002,3.168691457441023,"['Engineering', 'Mathematics']",Engineering,visual,2024-10-19
+ST0003,3.2462174534557633,"['Social Sciences', 'Mathematics']",Social Sciences,kinesthetic,2025-04-13
+ST0004,2.837458210956931,"['Physics', 'Mathematics']",Social Sciences,auditory,2023-12-20
+ST0005,2.393148069224361,"['Business', 'Physics']",Physics,kinesthetic,2024-04-08
+ST0006,3.0986163137651315,"['Business', 'Physics']",Social Sciences,visual,2023-10-31
+ST0007,3.451957424220494,"['Mathematics', 'Physics']",Engineering,visual,2023-06-14
+ST0008,3.30586474152086,"['Computer Science', 'Mathematics']",Mathematics,reading,2023-08-25
+ST0009,2.8565129488352903,"['Mathematics', 'Engineering']",Arts,reading,2022-11-17
+ST0010,3.461982680297447,"['Mathematics', 'Social Sciences']",Engineering,auditory,2023-09-02
+ST0011,3.4358017979119357,"['Computer Science', 'Business']",Computer Science,visual,2023-10-27
+ST0012,3.5495256201098337,"['Social Sciences', 'Mathematics']",Computer Science,visual,2023-09-06
+ST0013,2.6061547324025263,"['Business', 'Arts']",Arts,reading,2024-10-05
+ST0014,3.428538757693481,"['Social Sciences', 'Arts']",Computer Science,visual,2024-10-01
+ST0015,2.587828726165661,"['Computer Science', 'Physics']",Mathematics,reading,2023-08-29
+ST0016,3.008570833248407,"['Engineering', 'Business']",Computer Science,auditory,2023-12-13
+ST0017,3.71056469447828,"['Social Sciences', 'Engineering']",Engineering,visual,2025-01-11
+ST0018,4.123236102448933,"['Social Sciences', 'Physics']",Physics,reading,2024-04-23
+ST0019,3.9791668821962745,"['Mathematics', 'Arts']",Business,visual,2025-01-18
+ST0020,2.8180381268755417,"['Arts', 'Physics']",Business,kinesthetic,2022-09-26
+ST0021,3.4097898806609592,"['Arts', 'Mathematics']",Computer Science,reading,2025-03-11
+ST0022,3.4161026781184853,"['Arts', 'Physics']",Engineering,kinesthetic,2023-12-29
+ST0023,3.1336520186670866,"['Computer Science', 'Social Sciences']",Mathematics,reading,2025-03-24
+ST0024,3.1926263206629963,"['Arts', 'Computer Science']",Engineering,kinesthetic,2023-04-06
+ST0025,2.887876194444661,"['Mathematics', 'Computer Science']",Social Sciences,visual,2024-05-10
+ST0026,3.146423417724551,"['Mathematics', 'Engineering']",Business,auditory,2023-02-22
+ST0027,2.90220248501035,"['Social Sciences', 'Mathematics']",Business,reading,2025-02-16
+ST0028,2.1238610069354813,"['Business', 'Social Sciences']",Mathematics,reading,2023-03-06
+ST0029,2.6582143843277617,"['Social Sciences', 'Mathematics']",Engineering,reading,2022-11-01
+ST0030,3.0335130014864276,"['Mathematics', 'Business']",Arts,auditory,2024-01-14
+ST0031,3.641330586730047,"['Arts', 'Computer Science']",Mathematics,auditory,2024-04-13
+ST0032,2.5157181724257613,"['Social Sciences', 'Physics']",Social Sciences,visual,2025-04-07
+ST0033,3.3212854670135217,"['Mathematics', 'Computer Science']",Engineering,reading,2025-03-26
+ST0034,3.2892535677958135,"['Arts', 'Physics']",Arts,kinesthetic,2024-08-12
+ST0035,1.7024305705683844,"['Computer Science', 'Physics']",Arts,kinesthetic,2024-04-16
+ST0036,2.8714726949842047,"['Business', 'Mathematics']",Mathematics,auditory,2024-08-07
+ST0037,2.863503819332351,"['Physics', 'Business']",Mathematics,visual,2024-05-10
+ST0038,2.875115768228042,"['Arts', 'Physics']",Business,visual,2024-05-15
+ST0039,3.398988874344471,"['Social Sciences', 'Mathematics']",Computer Science,visual,2024-04-03
+ST0040,2.628326914982157,"['Mathematics', 'Computer Science']",Physics,kinesthetic,2023-05-14
+ST0041,3.0220261166010034,"['Social Sciences', 'Physics']",Mathematics,reading,2024-06-30
+ST0042,3.2055702303452884,"['Engineering', 'Mathematics']",Arts,reading,2025-02-10
+ST0043,3.0757874092971176,"['Physics', 'Engineering']",Business,auditory,2024-08-09
+ST0044,3.3325380864604295,"['Mathematics', 'Physics']",Computer Science,auditory,2023-07-01
+ST0045,3.3304671352628414,"['Physics', 'Social Sciences']",Computer Science,visual,2024-05-22
+ST0046,3.1618208618109076,"['Engineering', 'Social Sciences']",Business,auditory,2024-03-18
+ST0047,2.913355666680964,"['Arts', 'Business']",Social Sciences,kinesthetic,2025-03-13
+ST0048,2.33896301753145,"['Computer Science', 'Mathematics']",Computer Science,auditory,2022-10-10
+ST0049,3.2688252728478937,"['Computer Science', 'Engineering']",Mathematics,reading,2023-06-10
+ST0050,2.515870493933324,"['Business', 'Mathematics']",Social Sciences,kinesthetic,2024-12-18
+ST0051,2.5275326034933023,"['Social Sciences', 'Computer Science']",Mathematics,visual,2024-02-15
+ST0052,2.564021247543445,"['Engineering', 'Computer Science']",Social Sciences,auditory,2025-03-21
+ST0053,3.033882381167512,"['Business', 'Mathematics']",Mathematics,kinesthetic,2024-04-10
+ST0054,2.926544364705838,"['Arts', 'Physics']",Mathematics,auditory,2023-09-10
+ST0055,3.519884590461667,"['Computer Science', 'Arts']",Arts,visual,2022-10-07
+ST0056,3.0910180736114534,"['Computer Science', 'Social Sciences']",Arts,auditory,2024-06-07
+ST0057,3.6223052727443448,"['Physics', 'Engineering']",Business,reading,2023-01-06
+ST0058,3.3363622081181856,"['Mathematics', 'Engineering']",Mathematics,kinesthetic,2025-05-19
+ST0059,3.9788520600933213,"['Social Sciences', 'Business']",Physics,kinesthetic,2025-05-05
+ST0060,2.5851357898447604,"['Arts', 'Mathematics']",Physics,visual,2025-03-14
+ST0061,3.5031247493746305,"['Engineering', 'Arts']",Engineering,auditory,2025-01-16
+ST0062,3.044418952533958,"['Mathematics', 'Engineering']",Arts,reading,2024-04-12
+ST0063,3.671601327672769,"['Business', 'Social Sciences']",Business,kinesthetic,2024-12-15
+ST0064,2.393791881220567,"['Engineering', 'Business']",Physics,reading,2024-12-18
+ST0065,3.183062002593065,"['Physics', 'Arts']",Computer Science,visual,2023-08-24
+ST0066,2.8475467539754056,"['Computer Science', 'Business']",Social Sciences,visual,2025-01-05
+ST0067,3.5005589861453053,"['Mathematics', 'Engineering']",Mathematics,auditory,2025-02-07
+ST0068,3.090422121000706,"['Mathematics', 'Arts']",Engineering,reading,2024-07-02
+ST0069,3.195021692687371,"['Arts', 'Physics']",Mathematics,auditory,2023-12-10
+ST0070,3.2285851929497893,"['Business', 'Social Sciences']",Engineering,kinesthetic,2024-01-03
+ST0071,3.5881334860676986,"['Mathematics', 'Physics']",Physics,kinesthetic,2024-10-29
+ST0072,2.9990025730381764,"['Social Sciences', 'Arts']",Physics,visual,2023-02-15
+ST0073,2.9783470984117386,"['Computer Science', 'Business']",Arts,kinesthetic,2024-02-26
+ST0074,2.1601289480528556,"['Business', 'Social Sciences']",Engineering,reading,2023-03-27
+ST0075,3.1766676049950746,"['Computer Science', 'Engineering']",Social Sciences,reading,2024-04-28
+ST0076,2.9063525508246637,"['Arts', 'Physics']",Arts,kinesthetic,2025-02-21
+ST0077,2.8272695660442846,"['Computer Science', 'Social Sciences']",Arts,kinesthetic,2024-11-04
+ST0078,3.1643357170684463,"['Arts', 'Computer Science']",Mathematics,auditory,2023-05-04
+ST0079,2.6629581515516474,"['Mathematics', 'Social Sciences']",Engineering,reading,2025-01-23
+ST0080,2.686837447838603,"['Engineering', 'Social Sciences']",Mathematics,kinesthetic,2024-11-21
+ST0081,2.630299096342367,"['Mathematics', 'Social Sciences']",Business,auditory,2024-01-31
+ST0082,3.7689394058658383,"['Social Sciences', 'Arts']",Business,kinesthetic,2023-03-06
+ST0083,2.388893380823939,"['Social Sciences', 'Business']",Physics,reading,2022-11-14
+ST0084,2.782179462831055,"['Physics', 'Business']",Physics,visual,2023-07-28
+ST0085,2.109397461822545,"['Mathematics', 'Engineering']",Social Sciences,kinesthetic,2024-05-26
+ST0086,3.1963316316559727,"['Engineering', 'Arts']",Social Sciences,visual,2025-05-26
+ST0087,3.3457020185371014,"['Social Sciences', 'Mathematics']",Engineering,visual,2023-07-02
+ST0088,3.347770761760158,"['Business', 'Computer Science']",Engineering,auditory,2023-01-12
+ST0089,2.8972466338088863,"['Computer Science', 'Business']",Arts,visual,2023-08-12
+ST0090,3.271366837445718,"['Social Sciences', 'Computer Science']",Mathematics,kinesthetic,2024-12-26
+ST0091,3.1413396484775604,"['Social Sciences', 'Arts']",Physics,reading,2023-07-19
+ST0092,2.6591625004856017,"['Social Sciences', 'Mathematics']",Arts,visual,2024-01-07
+ST0093,3.7506721961503233,"['Engineering', 'Computer Science']",Business,visual,2023-04-07
+ST0094,3.043513591393775,"['Mathematics', 'Physics']",Computer Science,auditory,2024-06-28
+ST0095,2.1951182441235635,"['Social Sciences', 'Arts']",Business,auditory,2024-12-19
+ST0096,2.875276034927386,"['Computer Science', 'Mathematics']",Business,kinesthetic,2022-12-13
+ST0097,3.51280546130953,"['Mathematics', 'Business']",Mathematics,kinesthetic,2024-01-27
+ST0098,2.2131146179612076,"['Arts', 'Computer Science']",Computer Science,reading,2023-04-27
+ST0099,3.173874158599067,"['Computer Science', 'Physics']",Business,visual,2023-11-05
+ST0100,3.3492555121731886,"['Engineering', 'Physics']",Engineering,reading,2025-03-08
+ST0101,3.4596369574069428,"['Mathematics', 'Social Sciences']",Social Sciences,visual,2023-05-01
+ST0102,2.7187197641886174,"['Business', 'Computer Science']",Social Sciences,kinesthetic,2023-12-13
+ST0103,3.18020236244812,"['Mathematics', 'Computer Science']",Mathematics,auditory,2024-08-26
+ST0104,2.6122315089788213,"['Engineering', 'Business']",Business,reading,2023-01-14
+ST0105,3.0674518312856707,"['Business', 'Arts']",Physics,visual,2024-10-25
+ST0106,3.0511547761029196,"['Social Sciences', 'Computer Science']",Physics,kinesthetic,2023-04-01
+ST0107,3.5239510830976477,"['Mathematics', 'Social Sciences']",Social Sciences,kinesthetic,2023-08-24
+ST0108,3.9030228077866047,"['Mathematics', 'Engineering']",Physics,reading,2024-05-22
+ST0109,3.1468480294883188,"['Mathematics', 'Business']",Mathematics,kinesthetic,2024-09-04
+ST0110,3.298265223674064,"['Social Sciences', 'Business']",Engineering,kinesthetic,2023-02-08
+ST0111,2.412739950503992,"['Business', 'Arts']",Social Sciences,visual,2024-05-31
+ST0112,3.750222737481446,"['Engineering', 'Business']",Arts,visual,2023-10-26
+ST0113,4.160478765834428,"['Computer Science', 'Engineering']",Physics,auditory,2024-05-01
+ST0114,3.6855015895290566,"['Engineering', 'Social Sciences']",Engineering,visual,2024-03-22
+ST0115,3.3899951177036276,"['Computer Science', 'Social Sciences']",Mathematics,kinesthetic,2024-10-22
+ST0116,3.396133184679247,"['Engineering', 'Mathematics']",Physics,auditory,2024-03-06
+ST0117,2.898899791046738,"['Arts', 'Engineering']",Physics,reading,2023-09-19
+ST0118,2.6056953166639616,"['Mathematics', 'Business']",Arts,visual,2024-05-09
+ST0119,3.549136520278858,"['Business', 'Engineering']",Computer Science,reading,2024-04-09
+ST0120,3.2589612098488967,"['Physics', 'Engineering']",Arts,kinesthetic,2022-09-20
+ST0121,3.4385820089590093,"['Physics', 'Business']",Computer Science,kinesthetic,2024-05-03
+ST0122,2.388255708243663,"['Mathematics', 'Physics']",Arts,auditory,2024-08-23
+ST0123,3.3090986368340065,"['Physics', 'Engineering']",Social Sciences,reading,2025-02-14
+ST0124,3.506714781044475,"['Engineering', 'Physics']",Physics,auditory,2024-01-28
+ST0125,3.3042301034071477,"['Arts', 'Mathematics']",Physics,reading,2025-05-08
+ST0126,3.2981059533169144,"['Computer Science', 'Business']",Arts,kinesthetic,2023-06-26
+ST0127,3.403759536305574,"['Mathematics', 'Physics']",Physics,visual,2023-09-14
+ST0128,3.326045112861414,"['Business', 'Mathematics']",Physics,kinesthetic,2023-03-23
+ST0129,2.464717826433459,"['Physics', 'Social Sciences']",Social Sciences,visual,2023-01-27
+ST0130,2.4891540687678573,"['Physics', 'Business']",Business,reading,2023-08-09
+ST0131,3.7072903183660815,"['Computer Science', 'Mathematics']",Arts,kinesthetic,2024-05-21
+ST0132,3.1271484316538802,"['Social Sciences', 'Arts']",Computer Science,visual,2022-11-25
+ST0133,3.3629667451774847,"['Social Sciences', 'Physics']",Physics,reading,2023-10-16
+ST0134,1.8783860887289419,"['Physics', 'Mathematics']",Business,reading,2023-10-15
+ST0135,3.8206710296491773,"['Physics', 'Engineering']",Arts,kinesthetic,2024-10-27
+ST0136,3.420610473598722,"['Engineering', 'Computer Science']",Business,visual,2023-03-02
+ST0137,3.1678734868700835,"['Physics', 'Social Sciences']",Computer Science,auditory,2023-02-06
+ST0138,3.022298075532291,"['Engineering', 'Arts']",Arts,visual,2024-11-10
+ST0139,3.091902614298619,"['Mathematics', 'Engineering']",Computer Science,kinesthetic,2024-06-28
+ST0140,3.4194038703325105,"['Arts', 'Engineering']",Social Sciences,reading,2023-10-31
+ST0141,3.1843925643495936,"['Engineering', 'Arts']",Arts,kinesthetic,2023-12-22
+ST0142,3.252298066670864,"['Social Sciences', 'Physics']",Engineering,auditory,2024-08-04
+ST0143,2.691503783354071,"['Engineering', 'Computer Science']",Computer Science,kinesthetic,2025-04-13
+ST0144,3.638383078323871,"['Engineering', 'Arts']",Business,kinesthetic,2023-11-27
+ST0145,3.057410151382381,"['Engineering', 'Arts']",Social Sciences,reading,2022-10-25
+ST0146,2.8019000817108193,"['Social Sciences', 'Engineering']",Mathematics,visual,2024-08-05
+ST0147,3.192835383454658,"['Arts', 'Mathematics']",Business,reading,2022-11-04
+ST0148,2.793787907264673,"['Social Sciences', 'Business']",Social Sciences,kinesthetic,2023-05-12
+ST0149,3.2498415173366806,"['Arts', 'Engineering']",Mathematics,visual,2022-10-15
+ST0150,2.4503236029741737,"['Arts', 'Social Sciences']",Arts,reading,2024-12-05
+ST0151,2.567979058326485,"['Computer Science', 'Arts']",Business,reading,2024-06-17
+ST0152,3.5384729787665083,"['Social Sciences', 'Computer Science']",Arts,auditory,2025-05-03
+ST0153,3.1105762525122533,"['Computer Science', 'Arts']",Engineering,reading,2022-12-31
+ST0154,3.156000250664242,"['Arts', 'Business']",Computer Science,visual,2023-10-23
+ST0155,2.8381328413385964,"['Business', 'Physics']",Business,kinesthetic,2025-06-04
+ST0156,2.800190921797506,"['Physics', 'Engineering']",Social Sciences,auditory,2024-12-04
+ST0157,3.9104571390067875,"['Engineering', 'Computer Science']",Arts,auditory,2025-01-16
+ST0158,4.1370283854340055,"['Business', 'Physics']",Computer Science,visual,2024-05-26
+ST0159,3.2240883911278417,"['Social Sciences', 'Business']",Mathematics,auditory,2024-04-12
+ST0160,3.107028470975508,"['Engineering', 'Physics']",Computer Science,kinesthetic,2023-02-03
+ST0161,2.3203719762094837,"['Engineering', 'Physics']",Social Sciences,kinesthetic,2023-05-28
+ST0162,2.8852542787483255,"['Business', 'Physics']",Computer Science,visual,2024-05-25
+ST0163,2.9099769318800557,"['Arts', 'Mathematics']",Social Sciences,auditory,2025-02-17
+ST0164,2.967752378168266,"['Computer Science', 'Physics']",Arts,kinesthetic,2024-05-01
+ST0165,3.3309823293856105,"['Mathematics', 'Computer Science']",Engineering,reading,2023-09-16
+ST0166,2.6704614266709483,"['Computer Science', 'Social Sciences']",Mathematics,auditory,2023-09-10
+ST0167,3.7539871885563105,"['Mathematics', 'Arts']",Engineering,reading,2023-03-31
+ST0168,2.635064265641181,"['Mathematics', 'Computer Science']",Arts,visual,2024-07-18
+ST0169,3.4988248876856427,"['Social Sciences', 'Business']",Computer Science,visual,2023-06-08
+ST0170,2.542973147365687,"['Arts', 'Social Sciences']",Engineering,auditory,2024-10-06
+ST0171,3.6993834373866816,"['Social Sciences', 'Arts']",Social Sciences,visual,2023-11-14
+ST0172,2.227454388371585,"['Business', 'Computer Science']",Social Sciences,auditory,2024-12-08
+ST0173,3.450884707470602,"['Social Sciences', 'Engineering']",Computer Science,reading,2024-09-23
+ST0174,3.6272154636322282,"['Social Sciences', 'Physics']",Engineering,auditory,2023-10-01
+ST0175,3.2179751625367583,"['Business', 'Arts']",Social Sciences,visual,2024-10-07
+ST0176,3.4443493864666896,"['Social Sciences', 'Computer Science']",Arts,auditory,2022-10-30
+ST0177,2.6641429235229896,"['Business', 'Mathematics']",Arts,auditory,2024-07-07
+ST0178,2.7152438816786963,"['Computer Science', 'Business']",Engineering,auditory,2024-10-14
+ST0179,3.1875483949700363,"['Arts', 'Physics']",Mathematics,reading,2025-04-02
+ST0180,1.424115558912012,"['Engineering', 'Mathematics']",Social Sciences,visual,2023-03-08
+ST0181,2.4123161384818315,"['Computer Science', 'Business']",Engineering,visual,2024-04-28
+ST0182,2.7398575675909584,"['Social Sciences', 'Computer Science']",Computer Science,auditory,2023-04-15
+ST0183,2.681340211792173,"['Physics', 'Arts']",Computer Science,reading,2024-03-16
+ST0184,4.12557656864773,"['Computer Science', 'Mathematics']",Mathematics,kinesthetic,2023-07-30
+ST0185,2.7235806416433044,"['Engineering', 'Social Sciences']",Business,auditory,2023-03-05
+ST0186,1.4638301662850763,"['Physics', 'Business']",Arts,kinesthetic,2023-04-11
+ST0187,2.9975418747137144,"['Engineering', 'Arts']",Computer Science,reading,2023-03-10
+ST0188,2.779320006680639,"['Mathematics', 'Social Sciences']",Physics,visual,2023-03-24
+ST0189,3.4281027529067716,"['Physics', 'Mathematics']",Physics,auditory,2025-04-08
+ST0190,3.5999863648318646,"['Business', 'Computer Science']",Mathematics,reading,2024-11-05
+ST0191,2.67225646188736,"['Social Sciences', 'Mathematics']",Arts,visual,2023-05-23
+ST0192,2.5932108091104986,"['Arts', 'Engineering']",Social Sciences,reading,2024-06-25
+ST0193,2.678339741577774,"['Physics', 'Social Sciences']",Mathematics,visual,2023-01-16
+ST0194,2.084408273981467,"['Engineering', 'Arts']",Physics,visual,2025-04-09
+ST0195,3.396077600996958,"['Arts', 'Computer Science']",Arts,auditory,2023-01-14
+ST0196,2.3349937136361323,"['Engineering', 'Social Sciences']",Physics,reading,2023-02-24
+ST0197,2.917637913052353,"['Engineering', 'Business']",Arts,visual,2024-02-27
+ST0198,2.7156422421130326,"['Social Sciences', 'Engineering']",Business,visual,2024-11-21
+ST0199,3.3910476125670628,"['Mathematics', 'Engineering']",Arts,kinesthetic,2023-08-09
+ST0200,2.554654651434512,"['Physics', 'Computer Science']",Mathematics,reading,2023-09-04
+ST0201,3.261208962401113,"['Business', 'Mathematics']",Computer Science,visual,2023-02-19
+ST0202,2.828166914441373,"['Arts', 'Physics']",Engineering,auditory,2022-10-24
+ST0203,2.7893204495414645,"['Mathematics', 'Physics']",Physics,reading,2024-05-02
+ST0204,2.3192983453952323,"['Engineering', 'Arts']",Physics,auditory,2023-12-05
+ST0205,2.9480737360329137,"['Physics', 'Computer Science']",Arts,auditory,2025-05-07
+ST0206,2.2719615411515472,"['Engineering', 'Arts']",Mathematics,kinesthetic,2023-08-12
+ST0207,2.2424428115370407,"['Mathematics', 'Computer Science']",Engineering,visual,2025-03-19
+ST0208,3.6698861087239454,"['Engineering', 'Social Sciences']",Physics,auditory,2022-11-30
+ST0209,3.7380800368689115,"['Physics', 'Mathematics']",Social Sciences,auditory,2023-12-07
+ST0210,2.849247479799632,"['Social Sciences', 'Engineering']",Physics,visual,2024-10-29
+ST0211,2.7147728454244184,"['Computer Science', 'Mathematics']",Engineering,auditory,2024-07-11
+ST0212,2.2722833605317305,"['Business', 'Arts']",Arts,visual,2024-05-24
+ST0213,3.0140662463545023,"['Mathematics', 'Social Sciences']",Arts,reading,2024-05-30
+ST0214,2.773709759180595,"['Physics', 'Computer Science']",Computer Science,kinesthetic,2023-11-05
+ST0215,3.0591266076000974,"['Arts', 'Social Sciences']",Computer Science,auditory,2022-09-23
+ST0216,3.295424339663252,"['Physics', 'Engineering']",Social Sciences,kinesthetic,2022-10-11
+ST0217,2.457308632956209,"['Social Sciences', 'Engineering']",Mathematics,reading,2024-05-10
+ST0218,3.1693248784102384,"['Social Sciences', 'Engineering']",Business,auditory,2024-12-30
+ST0219,2.8461011288000972,"['Mathematics', 'Social Sciences']",Social Sciences,reading,2024-01-28
+ST0220,2.8366754041822877,"['Business', 'Mathematics']",Engineering,kinesthetic,2024-03-10
+ST0221,3.9273913994651934,"['Mathematics', 'Social Sciences']",Computer Science,visual,2024-09-26
+ST0222,3.0433154359191534,"['Social Sciences', 'Arts']",Mathematics,reading,2024-05-05
+ST0223,3.233087938638339,"['Computer Science', 'Mathematics']",Physics,reading,2022-09-26
+ST0224,2.4280798923794555,"['Social Sciences', 'Physics']",Mathematics,auditory,2023-03-07
+ST0225,3.185644206580951,"['Computer Science', 'Arts']",Business,visual,2024-01-27
+ST0226,2.926878239728306,"['Engineering', 'Mathematics']",Computer Science,reading,2023-08-14
+ST0227,3.627113094222758,"['Computer Science', 'Physics']",Computer Science,reading,2023-03-30
+ST0228,2.363667501698394,"['Business', 'Engineering']",Mathematics,kinesthetic,2022-12-27
+ST0229,2.921006774572863,"['Social Sciences', 'Physics']",Arts,reading,2025-03-08
+ST0230,3.4189870317845963,"['Physics', 'Computer Science']",Business,visual,2023-08-03
+ST0231,3.503396906275207,"['Computer Science', 'Social Sciences']",Physics,visual,2023-04-06
+ST0232,2.679514453921565,"['Mathematics', 'Business']",Mathematics,kinesthetic,2024-03-04
+ST0233,2.650523421212162,"['Business', 'Computer Science']",Computer Science,kinesthetic,2024-02-05
+ST0234,3.215460386439188,"['Mathematics', 'Arts']",Physics,kinesthetic,2023-05-02
+ST0235,2.547694549004681,"['Computer Science', 'Social Sciences']",Computer Science,auditory,2023-06-19
+ST0236,3.164947688882122,"['Social Sciences', 'Mathematics']",Mathematics,reading,2024-10-23
+ST0237,2.7637370199910523,"['Social Sciences', 'Mathematics']",Social Sciences,reading,2023-06-06
+ST0238,2.3244355606685607,"['Physics', 'Mathematics']",Engineering,visual,2025-05-09
+ST0239,3.6163803387638036,"['Engineering', 'Social Sciences']",Engineering,reading,2024-08-10
+ST0240,3.7669070409714416,"['Engineering', 'Computer Science']",Computer Science,auditory,2023-07-27
+ST0241,2.4289898335705735,"['Physics', 'Social Sciences']",Computer Science,reading,2022-12-03
+ST0242,2.450637714567141,"['Mathematics', 'Social Sciences']",Social Sciences,auditory,2022-11-13
+ST0243,3.2061964319287397,"['Social Sciences', 'Computer Science']",Business,reading,2023-08-09
+ST0244,2.85159911203601,"['Arts', 'Physics']",Physics,auditory,2023-03-24
+ST0245,2.4203975237466357,"['Mathematics', 'Physics']",Business,auditory,2024-11-17
+ST0246,3.1606660298687217,"['Business', 'Computer Science']",Business,reading,2025-04-06
+ST0247,2.7985864256814676,"['Computer Science', 'Social Sciences']",Business,kinesthetic,2025-04-11
+ST0248,2.891771074641064,"['Physics', 'Arts']",Arts,visual,2023-08-21
+ST0249,3.6253903992328835,"['Arts', 'Engineering']",Engineering,visual,2023-01-23
+ST0250,2.2963902844550015,"['Arts', 'Mathematics']",Business,visual,2025-01-09
+ST0251,3.340084684370833,"['Business', 'Mathematics']",Mathematics,kinesthetic,2024-08-17
+ST0252,1.897730395840982,"['Physics', 'Social Sciences']",Engineering,reading,2023-04-05
+ST0253,2.4816307187882796,"['Mathematics', 'Arts']",Business,visual,2025-02-17
+ST0254,3.2245001200585204,"['Physics', 'Business']",Computer Science,reading,2025-05-09
+ST0255,3.202991261020375,"['Computer Science', 'Mathematics']",Physics,auditory,2023-09-08
+ST0256,2.525000436907671,"['Business', 'Physics']",Engineering,reading,2022-11-10
+ST0257,2.352762058575692,"['Engineering', 'Computer Science']",Engineering,reading,2022-12-02
+ST0258,3.2653830022748047,"['Engineering', 'Mathematics']",Computer Science,visual,2025-03-06
+ST0259,2.8577667552235217,"['Arts', 'Computer Science']",Computer Science,kinesthetic,2024-12-09
+ST0260,3.6085964801000125,"['Mathematics', 'Arts']",Business,kinesthetic,2024-12-18
+ST0261,2.5181377834749674,"['Business', 'Engineering']",Mathematics,kinesthetic,2024-08-06
+ST0262,2.9811864024978445,"['Business', 'Mathematics']",Engineering,reading,2024-02-08
+ST0263,2.8021949185680546,"['Mathematics', 'Physics']",Physics,auditory,2023-03-21
+ST0264,3.3655455939172594,"['Arts', 'Engineering']",Physics,auditory,2024-11-24
+ST0265,2.739461157976053,"['Mathematics', 'Computer Science']",Computer Science,auditory,2024-03-28
+ST0266,3.16147911496203,"['Social Sciences', 'Arts']",Business,reading,2025-03-31
+ST0267,2.915521408294046,"['Arts', 'Social Sciences']",Engineering,visual,2024-01-23
+ST0268,3.2004319832084764,"['Social Sciences', 'Computer Science']",Mathematics,kinesthetic,2023-03-20
+ST0269,3.0407669107740665,"['Business', 'Physics']",Computer Science,reading,2023-08-04
+ST0270,3.013307885499842,"['Social Sciences', 'Physics']",Social Sciences,kinesthetic,2024-07-05
+ST0271,2.583172677563206,"['Engineering', 'Mathematics']",Physics,kinesthetic,2022-09-23
+ST0272,3.5421861119793596,"['Engineering', 'Social Sciences']",Business,reading,2024-08-01
+ST0273,2.5369446448777717,"['Mathematics', 'Engineering']",Mathematics,visual,2025-03-28
+ST0274,3.3021161979613822,"['Social Sciences', 'Computer Science']",Physics,auditory,2023-12-24
+ST0275,2.854486304146349,"['Business', 'Engineering']",Computer Science,reading,2023-10-17
+ST0276,3.2854716437519977,"['Social Sciences', 'Arts']",Physics,kinesthetic,2024-12-23
+ST0277,2.55781262058342,"['Social Sciences', 'Computer Science']",Business,reading,2024-09-26
+ST0278,4.45159680876,"['Arts', 'Computer Science']",Social Sciences,reading,2022-10-24
+ST0279,3.394816385493821,"['Social Sciences', 'Arts']",Business,reading,2025-03-21
+ST0280,3.6677644261078886,"['Mathematics', 'Computer Science']",Computer Science,kinesthetic,2023-04-30
+ST0281,2.797971768365575,"['Social Sciences', 'Computer Science']",Physics,visual,2023-03-03
+ST0282,3.051634020256964,"['Engineering', 'Business']",Arts,visual,2023-12-12
+ST0283,3.337376358080742,"['Arts', 'Social Sciences']",Physics,auditory,2023-10-09
+ST0284,3.180105045355889,"['Business', 'Mathematics']",Physics,auditory,2024-12-16
+ST0285,2.194344101771822,"['Business', 'Engineering']",Engineering,auditory,2022-12-25
+ST0286,3.0856953972042116,"['Computer Science', 'Business']",Business,reading,2024-08-18
+ST0287,3.512000967355218,"['Engineering', 'Computer Science']",Physics,visual,2024-06-02
+ST0288,3.261808595650322,"['Arts', 'Computer Science']",Business,kinesthetic,2025-03-26
+ST0289,3.643019845162776,"['Business', 'Arts']",Mathematics,reading,2023-08-24
+ST0290,3.4140080281644622,"['Engineering', 'Mathematics']",Computer Science,visual,2024-05-20
+ST0291,2.701147941629593,"['Engineering', 'Business']",Computer Science,reading,2023-08-02
+ST0292,2.729139324081478,"['Business', 'Arts']",Arts,visual,2022-11-02
+ST0293,2.9427354714438496,"['Engineering', 'Arts']",Social Sciences,auditory,2023-02-17
+ST0294,2.7564264607936164,"['Physics', 'Social Sciences']",Arts,auditory,2025-05-30
+ST0295,2.8049527837329054,"['Business', 'Arts']",Social Sciences,kinesthetic,2023-10-14
+ST0296,3.2841631593732092,"['Business', 'Physics']",Mathematics,auditory,2025-01-15
+ST0297,2.0229235575628346,"['Social Sciences', 'Engineering']",Computer Science,kinesthetic,2024-06-18
+ST0298,3.3757316286232033,"['Business', 'Social Sciences']",Arts,reading,2023-06-21
+ST0299,2.4009943961693616,"['Engineering', 'Business']",Computer Science,kinesthetic,2023-10-30
+ST0300,2.50849283191459,"['Physics', 'Mathematics']",Social Sciences,reading,2024-01-04
+ST0301,3.2315293548084534,"['Computer Science', 'Physics']",Business,auditory,2024-03-05
+ST0302,2.775431218976165,"['Engineering', 'Mathematics']",Engineering,reading,2023-03-20
+ST0303,3.8339291929373434,"['Arts', 'Social Sciences']",Business,visual,2024-03-09
+ST0304,2.1603618582036654,"['Physics', 'Business']",Computer Science,reading,2023-07-31
+ST0305,3.111990261014432,"['Mathematics', 'Business']",Computer Science,visual,2023-08-14
+ST0306,3.2371563389039695,"['Physics', 'Arts']",Physics,kinesthetic,2023-04-20
+ST0307,3.1390691124656094,"['Arts', 'Mathematics']",Arts,auditory,2023-12-03
+ST0308,2.800513724315167,"['Mathematics', 'Engineering']",Computer Science,kinesthetic,2024-04-03
+ST0309,2.6897829970667075,"['Engineering', 'Mathematics']",Mathematics,kinesthetic,2023-06-08
+ST0310,2.998218306224407,"['Social Sciences', 'Business']",Social Sciences,visual,2023-05-31
+ST0311,3.078063569446256,"['Computer Science', 'Physics']",Social Sciences,kinesthetic,2025-05-24
+ST0312,2.2643950016876095,"['Mathematics', 'Arts']",Arts,visual,2025-02-10
+ST0313,3.4715682961719248,"['Physics', 'Social Sciences']",Arts,auditory,2023-05-24
+ST0314,2.8179051482638884,"['Arts', 'Social Sciences']",Arts,kinesthetic,2023-03-12
+ST0315,2.957801603540354,"['Social Sciences', 'Mathematics']",Computer Science,reading,2023-07-12
+ST0316,2.7342054316951963,"['Business', 'Mathematics']",Engineering,kinesthetic,2022-12-27
+ST0317,2.5923102023786084,"['Engineering', 'Computer Science']",Business,visual,2025-01-17
+ST0318,3.189317051460196,"['Computer Science', 'Engineering']",Arts,reading,2023-11-24
+ST0319,3.0237202428520566,"['Business', 'Physics']",Arts,reading,2023-01-14
+ST0320,4.26204665001778,"['Computer Science', 'Mathematics']",Social Sciences,auditory,2024-01-16
+ST0321,2.6403992164340355,"['Mathematics', 'Computer Science']",Business,visual,2023-09-14
+ST0322,1.9542237952274715,"['Social Sciences', 'Arts']",Social Sciences,reading,2023-06-14
+ST0323,2.1734371676562247,"['Mathematics', 'Arts']",Business,auditory,2025-05-20
+ST0324,3.5627090347906547,"['Business', 'Mathematics']",Social Sciences,reading,2023-09-24
+ST0325,3.17974615173286,"['Computer Science', 'Mathematics']",Mathematics,reading,2023-09-13
+ST0326,3.344474732296053,"['Computer Science', 'Mathematics']",Social Sciences,auditory,2023-10-10
+ST0327,1.9260759720791565,"['Computer Science', 'Arts']",Mathematics,auditory,2023-12-17
+ST0328,3.634745222129503,"['Arts', 'Mathematics']",Physics,kinesthetic,2023-12-05
+ST0329,3.1781283386008456,"['Social Sciences', 'Physics']",Computer Science,auditory,2024-12-01
+ST0330,2.5799135553524573,"['Physics', 'Business']",Computer Science,kinesthetic,2025-01-06
+ST0331,2.822429600397702,"['Social Sciences', 'Engineering']",Mathematics,kinesthetic,2024-04-16
+ST0332,2.09151464968925,"['Engineering', 'Computer Science']",Arts,auditory,2024-08-28
+ST0333,3.2705866078617145,"['Mathematics', 'Physics']",Business,kinesthetic,2024-04-16
+ST0334,2.551332511205529,"['Social Sciences', 'Mathematics']",Arts,kinesthetic,2023-07-31
+ST0335,3.5680291753438875,"['Business', 'Engineering']",Social Sciences,kinesthetic,2023-12-01
+ST0336,3.7511790448124174,"['Social Sciences', 'Physics']",Engineering,auditory,2023-05-28
+ST0337,3.007091957153895,"['Physics', 'Computer Science']",Social Sciences,kinesthetic,2022-11-11
+ST0338,2.232862424466706,"['Physics', 'Business']",Arts,auditory,2025-06-07
+ST0339,2.994343694256659,"['Physics', 'Business']",Engineering,kinesthetic,2023-04-05
+ST0340,2.4078764262925807,"['Physics', 'Social Sciences']",Mathematics,reading,2022-12-16
+ST0341,3.187109475911605,"['Computer Science', 'Engineering']",Arts,visual,2024-08-06
+ST0342,2.537268553192611,"['Engineering', 'Computer Science']",Computer Science,kinesthetic,2024-05-03
+ST0343,3.269053333941414,"['Arts', 'Mathematics']",Physics,reading,2024-02-26
+ST0344,2.5758855090556523,"['Social Sciences', 'Business']",Arts,kinesthetic,2023-04-11
+ST0345,2.593590156565831,"['Social Sciences', 'Computer Science']",Business,auditory,2023-05-18
+ST0346,2.8277657268272716,"['Physics', 'Business']",Computer Science,reading,2024-11-12
+ST0347,3.6778133261931636,"['Engineering', 'Business']",Social Sciences,kinesthetic,2023-03-24
+ST0348,3.1978328802134715,"['Social Sciences', 'Arts']",Mathematics,auditory,2023-10-09
+ST0349,3.501952295646368,"['Mathematics', 'Engineering']",Business,kinesthetic,2023-03-22
+ST0350,3.0278998816379428,"['Arts', 'Social Sciences']",Mathematics,kinesthetic,2024-04-29
+ST0351,3.5833984973633113,"['Physics', 'Business']",Mathematics,auditory,2024-12-27
+ST0352,2.8823085340829877,"['Business', 'Engineering']",Mathematics,kinesthetic,2023-11-09
+ST0353,3.3080230608545413,"['Computer Science', 'Social Sciences']",Social Sciences,visual,2024-02-29
+ST0354,2.253637048342123,"['Physics', 'Business']",Business,visual,2024-05-18
+ST0355,2.7451547199176076,"['Mathematics', 'Arts']",Engineering,reading,2023-01-30
+ST0356,3.304764218857131,"['Social Sciences', 'Physics']",Social Sciences,auditory,2022-09-26
+ST0357,3.702721340108834,"['Mathematics', 'Engineering']",Mathematics,reading,2024-07-10
+ST0358,2.7171489506972963,"['Mathematics', 'Social Sciences']",Business,reading,2023-10-24
+ST0359,3.486057967853567,"['Physics', 'Mathematics']",Arts,kinesthetic,2025-06-05
+ST0360,3.136035898569889,"['Social Sciences', 'Physics']",Arts,reading,2023-10-31
+ST0361,3.1159021605203527,"['Arts', 'Computer Science']",Business,auditory,2022-12-02
+ST0362,2.881448125542109,"['Mathematics', 'Social Sciences']",Mathematics,visual,2025-01-11
+ST0363,2.8159052807547265,"['Physics', 'Mathematics']",Mathematics,reading,2023-05-25
+ST0364,2.584390980884383,"['Business', 'Engineering']",Social Sciences,reading,2023-05-21
+ST0365,3.1729603163465905,"['Social Sciences', 'Physics']",Business,kinesthetic,2024-01-01
+ST0366,3.0106162262252796,"['Engineering', 'Business']",Arts,auditory,2022-10-16
+ST0367,2.677299495115607,"['Physics', 'Computer Science']",Engineering,visual,2023-10-05
+ST0368,2.4505874917595594,"['Engineering', 'Physics']",Physics,visual,2024-01-26
+ST0369,3.1056294865444714,"['Business', 'Social Sciences']",Arts,kinesthetic,2024-10-22
+ST0370,2.4896260981522476,"['Arts', 'Business']",Social Sciences,visual,2025-01-08
+ST0371,3.973863198131154,"['Arts', 'Physics']",Social Sciences,visual,2022-10-21
+ST0372,2.764494594877752,"['Physics', 'Mathematics']",Arts,kinesthetic,2023-08-30
+ST0373,3.042175015820716,"['Social Sciences', 'Business']",Arts,visual,2023-08-07
+ST0374,2.7451594141401645,"['Physics', 'Mathematics']",Engineering,auditory,2023-03-07
+ST0375,2.201448293251862,"['Social Sciences', 'Arts']",Mathematics,visual,2024-10-07
+ST0376,2.9738453577440804,"['Physics', 'Arts']",Social Sciences,auditory,2024-09-24
+ST0377,2.8172888456025156,"['Computer Science', 'Business']",Business,kinesthetic,2022-11-25
+ST0378,1.9773706702586848,"['Mathematics', 'Engineering']",Business,visual,2024-10-22
+ST0379,2.8948013237076498,"['Mathematics', 'Physics']",Physics,reading,2023-10-18
+ST0380,3.615046769882859,"['Arts', 'Computer Science']",Computer Science,auditory,2022-10-02
+ST0381,3.2369671504845288,"['Mathematics', 'Computer Science']",Mathematics,auditory,2023-07-16
+ST0382,3.222452677416685,"['Computer Science', 'Business']",Physics,auditory,2025-02-12
+ST0383,2.3236453849461602,"['Arts', 'Business']",Business,reading,2023-12-30
+ST0384,3.3103015528752167,"['Arts', 'Business']",Arts,visual,2023-10-21
+ST0385,2.45563980591581,"['Social Sciences', 'Engineering']",Business,kinesthetic,2022-09-24
+ST0386,3.400033422846857,"['Arts', 'Physics']",Engineering,reading,2024-06-07
+ST0387,2.590889372826668,"['Arts', 'Physics']",Engineering,visual,2024-10-12
+ST0388,2.7865164246519742,"['Physics', 'Mathematics']",Social Sciences,kinesthetic,2025-05-26
+ST0389,3.5405278901385384,"['Engineering', 'Business']",Physics,reading,2025-03-24
+ST0390,3.2061065625273892,"['Mathematics', 'Arts']",Engineering,reading,2024-04-23
+ST0391,2.272135648558983,"['Mathematics', 'Business']",Engineering,auditory,2024-08-20
+ST0392,2.649186281106024,"['Computer Science', 'Engineering']",Mathematics,auditory,2024-01-04
+ST0393,2.697022818339854,"['Physics', 'Business']",Arts,kinesthetic,2023-12-30
+ST0394,2.428762991409385,"['Computer Science', 'Social Sciences']",Physics,visual,2025-04-23
+ST0395,3.2599955881284077,"['Physics', 'Social Sciences']",Engineering,kinesthetic,2023-03-23
+ST0396,2.990802168658609,"['Business', 'Computer Science']",Engineering,reading,2025-03-17
+ST0397,2.3707009578665277,"['Engineering', 'Social Sciences']",Mathematics,auditory,2024-02-26
+ST0398,3.887294642496912,"['Computer Science', 'Physics']",Mathematics,reading,2022-10-14
+ST0399,2.5761652665032004,"['Arts', 'Social Sciences']",Computer Science,kinesthetic,2023-04-17
+ST0400,3.6626422945289043,"['Arts', 'Social Sciences']",Mathematics,visual,2024-05-20
+ST0401,3.1686080489335495,"['Arts', 'Physics']",Computer Science,reading,2023-06-22
+ST0402,3.34276498315706,"['Business', 'Physics']",Mathematics,reading,2022-09-25
+ST0403,2.7050361896183874,"['Engineering', 'Mathematics']",Business,kinesthetic,2024-01-29
+ST0404,3.4624112452673437,"['Computer Science', 'Social Sciences']",Social Sciences,visual,2024-04-17
+ST0405,2.518749142662022,"['Arts', 'Business']",Computer Science,reading,2023-02-22
+ST0406,3.60067772616014,"['Physics', 'Arts']",Business,reading,2022-11-08
+ST0407,3.26181790492782,"['Computer Science', 'Business']",Physics,kinesthetic,2025-05-05
+ST0408,2.765057599961567,"['Mathematics', 'Engineering']",Social Sciences,visual,2023-10-29
+ST0409,2.9613167541135086,"['Social Sciences', 'Physics']",Mathematics,auditory,2023-06-08
+ST0410,2.68695331862245,"['Engineering', 'Business']",Engineering,visual,2023-09-09
+ST0411,2.9372367894761826,"['Arts', 'Engineering']",Physics,reading,2024-02-06
+ST0412,2.6580357515391704,"['Computer Science', 'Business']",Computer Science,visual,2023-08-04
+ST0413,3.339784958732376,"['Arts', 'Business']",Physics,reading,2024-12-22
+ST0414,3.591976389976735,"['Engineering', 'Computer Science']",Computer Science,auditory,2023-11-22
+ST0415,2.5573952596480787,"['Engineering', 'Social Sciences']",Social Sciences,kinesthetic,2024-09-04
+ST0416,3.3524000141441084,"['Arts', 'Computer Science']",Mathematics,auditory,2024-02-09
+ST0417,3.922252491863767,"['Engineering', 'Computer Science']",Mathematics,auditory,2023-11-03
+ST0418,3.77124499530936,"['Engineering', 'Business']",Business,reading,2023-08-21
+ST0419,3.2140243512651994,"['Business', 'Engineering']",Arts,kinesthetic,2024-11-11
+ST0420,3.0625487772127458,"['Engineering', 'Physics']",Mathematics,visual,2024-03-26
+ST0421,3.042263520114899,"['Arts', 'Physics']",Computer Science,visual,2025-01-03
+ST0422,2.2715954877583306,"['Arts', 'Mathematics']",Social Sciences,visual,2023-10-18
+ST0423,2.7505016419395907,"['Business', 'Mathematics']",Social Sciences,kinesthetic,2023-01-21
+ST0424,3.318662465176453,"['Computer Science', 'Engineering']",Arts,visual,2023-09-27
+ST0425,3.179990409441725,"['Computer Science', 'Mathematics']",Computer Science,visual,2023-05-15
+ST0426,3.67511782989218,"['Business', 'Social Sciences']",Computer Science,reading,2024-09-23
+ST0427,3.7119506367285324,"['Physics', 'Engineering']",Engineering,reading,2022-09-28
+ST0428,2.94664212878372,"['Arts', 'Physics']",Social Sciences,reading,2023-02-07
+ST0429,2.9581654550573213,"['Engineering', 'Physics']",Business,auditory,2024-10-14
+ST0430,2.409322330544107,"['Arts', 'Engineering']",Business,auditory,2024-12-01
+ST0431,3.1999876581498947,"['Engineering', 'Business']",Arts,auditory,2025-04-06
+ST0432,3.837028692365917,"['Physics', 'Arts']",Computer Science,reading,2024-06-17
+ST0433,3.055180089100102,"['Mathematics', 'Physics']",Social Sciences,auditory,2023-07-17
+ST0434,2.7632815626027285,"['Computer Science', 'Engineering']",Arts,auditory,2023-05-07
+ST0435,2.761528256261152,"['Mathematics', 'Arts']",Business,reading,2024-11-18
+ST0436,2.3583287834508533,"['Social Sciences', 'Business']",Social Sciences,visual,2024-10-25
+ST0437,3.260202523130653,"['Mathematics', 'Social Sciences']",Social Sciences,auditory,2022-09-21
+ST0438,2.9063833114643107,"['Mathematics', 'Computer Science']",Business,reading,2023-01-27
+ST0439,3.149553859795154,"['Physics', 'Mathematics']",Physics,kinesthetic,2025-06-09
+ST0440,1.9615575660774693,"['Mathematics', 'Business']",Engineering,reading,2024-04-24
+ST0441,2.6251699936186554,"['Social Sciences', 'Engineering']",Arts,kinesthetic,2023-07-20
+ST0442,3.0412707179575666,"['Computer Science', 'Mathematics']",Engineering,kinesthetic,2025-04-02
+ST0443,2.8881231067656126,"['Mathematics', 'Arts']",Engineering,visual,2024-06-02
+ST0444,2.6751740002597235,"['Mathematics', 'Computer Science']",Computer Science,visual,2023-08-31
+ST0445,2.3105361600140872,"['Physics', 'Mathematics']",Physics,kinesthetic,2023-03-18
+ST0446,2.862305683909683,"['Arts', 'Business']",Physics,kinesthetic,2024-04-14
+ST0447,4.220770449816696,"['Arts', 'Social Sciences']",Social Sciences,auditory,2024-08-20
+ST0448,2.862381671815878,"['Physics', 'Engineering']",Physics,visual,2024-05-04
+ST0449,2.75109171450104,"['Arts', 'Computer Science']",Social Sciences,visual,2023-08-15
+ST0450,2.647064983298959,"['Computer Science', 'Physics']",Arts,visual,2024-08-08
+ST0451,3.7828894201274768,"['Arts', 'Engineering']",Arts,auditory,2023-11-15
+ST0452,3.5949995218926922,"['Computer Science', 'Mathematics']",Arts,kinesthetic,2023-03-29
+ST0453,2.606202497666171,"['Computer Science', 'Physics']",Mathematics,kinesthetic,2023-11-10
+ST0454,3.2491918228589465,"['Business', 'Arts']",Arts,kinesthetic,2023-01-19
+ST0455,3.7678752078547646,"['Business', 'Computer Science']",Engineering,kinesthetic,2025-04-27
+ST0456,3.510889945564432,"['Arts', 'Mathematics']",Arts,reading,2023-08-13
+ST0457,3.953765285698571,"['Business', 'Physics']",Business,kinesthetic,2024-10-05
+ST0458,2.5923470162780764,"['Arts', 'Physics']",Business,kinesthetic,2025-06-03
+ST0459,2.868821373823528,"['Social Sciences', 'Computer Science']",Physics,visual,2023-08-29
+ST0460,3.3322463635411577,"['Social Sciences', 'Computer Science']",Social Sciences,reading,2024-07-04
+ST0461,3.156923075497993,"['Mathematics', 'Arts']",Social Sciences,visual,2023-12-10
+ST0462,2.2452129888396852,"['Mathematics', 'Computer Science']",Social Sciences,auditory,2022-11-13
+ST0463,3.1714582960052877,"['Engineering', 'Social Sciences']",Engineering,auditory,2024-08-01
+ST0464,3.676632365640462,"['Social Sciences', 'Computer Science']",Mathematics,auditory,2024-05-04
+ST0465,1.9771209754726746,"['Mathematics', 'Engineering']",Business,auditory,2023-07-23
+ST0466,3.5320771612166397,"['Computer Science', 'Business']",Business,auditory,2024-11-15
+ST0467,3.0616373730637956,"['Engineering', 'Mathematics']",Mathematics,visual,2023-11-03
+ST0468,2.6979576288814715,"['Business', 'Arts']",Computer Science,visual,2024-08-10
+ST0469,2.038935880104219,"['Computer Science', 'Physics']",Arts,auditory,2025-02-10
+ST0470,3.3779828310338202,"['Computer Science', 'Physics']",Computer Science,reading,2024-12-08
+ST0471,2.901654359466134,"['Physics', 'Arts']",Computer Science,kinesthetic,2024-01-26
+ST0472,2.8534706296131107,"['Engineering', 'Mathematics']",Physics,visual,2022-10-02
+ST0473,3.3633721078053225,"['Social Sciences', 'Computer Science']",Physics,reading,2024-01-12
+ST0474,3.082906162830981,"['Computer Science', 'Business']",Engineering,auditory,2025-04-17
+ST0475,2.356661788845307,"['Physics', 'Engineering']",Physics,auditory,2023-12-22
+ST0476,1.9593773780184252,"['Mathematics', 'Arts']",Computer Science,reading,2022-12-01
+ST0477,2.641003688816073,"['Computer Science', 'Physics']",Business,auditory,2023-07-15
+ST0478,2.8739656539557825,"['Computer Science', 'Mathematics']",Physics,auditory,2024-08-18
+ST0479,3.9916367931531505,"['Engineering', 'Mathematics']",Arts,kinesthetic,2024-10-21
+ST0480,2.6105680102685715,"['Mathematics', 'Engineering']",Engineering,kinesthetic,2024-11-18
+ST0481,2.87531019329326,"['Mathematics', 'Business']",Arts,kinesthetic,2025-06-01
+ST0482,3.700394193346349,"['Engineering', 'Physics']",Mathematics,visual,2024-10-28
+ST0483,3.102885392433081,"['Arts', 'Physics']",Physics,auditory,2025-01-10
+ST0484,2.958732920314526,"['Arts', 'Physics']",Arts,visual,2024-06-07
+ST0485,2.2375448949416423,"['Arts', 'Computer Science']",Physics,auditory,2024-11-16
+ST0486,3.136628706738673,"['Business', 'Arts']",Mathematics,visual,2024-04-13
+ST0487,3.4723338013203486,"['Computer Science', 'Arts']",Mathematics,auditory,2023-03-21
+ST0488,3.0527866124805216,"['Business', 'Mathematics']",Engineering,auditory,2025-06-02
+ST0489,3.3073375583512896,"['Social Sciences', 'Computer Science']",Computer Science,auditory,2024-04-05
+ST0490,3.3471955975561243,"['Physics', 'Arts']",Mathematics,kinesthetic,2024-04-01
+ST0491,2.760792340095279,"['Arts', 'Business']",Computer Science,visual,2023-05-24
+ST0492,3.265002626915201,"['Arts', 'Engineering']",Physics,auditory,2024-08-19
+ST0493,3.7845483919530643,"['Computer Science', 'Business']",Engineering,kinesthetic,2024-10-01
+ST0494,2.596141088604374,"['Engineering', 'Mathematics']",Business,kinesthetic,2023-10-22
+ST0495,2.757354880860686,"['Arts', 'Computer Science']",Engineering,auditory,2022-12-17
+ST0496,3.1406758466450686,"['Engineering', 'Computer Science']",Mathematics,kinesthetic,2024-09-10
+ST0497,2.8894150924959434,"['Engineering', 'Physics']",Business,visual,2023-04-28
+ST0498,2.9012563519051597,"['Mathematics', 'Physics']",Computer Science,reading,2025-02-21
+ST0499,3.5751534422838662,"['Computer Science', 'Mathematics']",Physics,visual,2023-12-15
+ST0500,3.000467246915535,"['Social Sciences', 'Mathematics']",Business,kinesthetic,2023-01-22
+ST0501,3.245391351527612,"['Arts', 'Computer Science']",Engineering,reading,2024-06-20
+ST0502,3.1369899499253604,"['Computer Science', 'Mathematics']",Business,reading,2023-04-04
+ST0503,2.469193637393802,"['Arts', 'Computer Science']",Engineering,visual,2024-11-23
+ST0504,3.089745964951283,"['Physics', 'Business']",Engineering,kinesthetic,2023-08-21
+ST0505,2.711521042664491,"['Mathematics', 'Computer Science']",Mathematics,reading,2024-08-04
+ST0506,3.1623725297283074,"['Mathematics', 'Arts']",Physics,reading,2022-11-30
+ST0507,3.2685527952402,"['Business', 'Physics']",Social Sciences,visual,2024-03-20
+ST0508,3.2372840323586507,"['Physics', 'Social Sciences']",Mathematics,reading,2024-11-17
+ST0509,1.9811196865297067,"['Social Sciences', 'Business']",Arts,reading,2023-08-31
+ST0510,2.9205622754208846,"['Computer Science', 'Mathematics']",Computer Science,reading,2024-05-09
+ST0511,2.7501311350983872,"['Computer Science', 'Business']",Mathematics,reading,2024-12-23
+ST0512,3.040431872895015,"['Social Sciences', 'Computer Science']",Arts,kinesthetic,2023-06-04
+ST0513,2.383134515173168,"['Business', 'Physics']",Engineering,reading,2022-09-23
+ST0514,2.3429569746648093,"['Business', 'Computer Science']",Engineering,kinesthetic,2023-09-25
+ST0515,3.9065885693786555,"['Social Sciences', 'Mathematics']",Physics,auditory,2022-10-01
+ST0516,3.798493525459112,"['Physics', 'Computer Science']",Arts,auditory,2022-12-07
+ST0517,2.551812569457696,"['Arts', 'Social Sciences']",Arts,auditory,2024-08-24
+ST0518,3.2605595743663254,"['Computer Science', 'Engineering']",Arts,visual,2023-05-17
+ST0519,1.7865352766038234,"['Social Sciences', 'Computer Science']",Physics,auditory,2024-11-20
+ST0520,2.366552874791674,"['Engineering', 'Arts']",Engineering,kinesthetic,2025-05-19
+ST0521,2.7131109775630398,"['Arts', 'Social Sciences']",Computer Science,reading,2024-05-04
+ST0522,2.752758653836213,"['Physics', 'Computer Science']",Mathematics,visual,2023-09-07
+ST0523,4.088759913102056,"['Business', 'Engineering']",Physics,visual,2024-10-16
+ST0524,2.7492802813293786,"['Business', 'Computer Science']",Business,kinesthetic,2023-06-19
+ST0525,2.391945197934471,"['Social Sciences', 'Computer Science']",Business,auditory,2025-04-23
+ST0526,1.8207359085310526,"['Engineering', 'Physics']",Engineering,auditory,2023-12-25
+ST0527,2.384069085368302,"['Mathematics', 'Computer Science']",Business,auditory,2025-04-27
+ST0528,3.6170130361735633,"['Engineering', 'Computer Science']",Arts,kinesthetic,2025-01-29
+ST0529,2.467572352469248,"['Mathematics', 'Computer Science']",Social Sciences,auditory,2024-03-05
+ST0530,2.4636598280117425,"['Physics', 'Arts']",Engineering,visual,2025-03-10
+ST0531,2.7754812923289496,"['Business', 'Mathematics']",Social Sciences,kinesthetic,2023-11-30
+ST0532,2.8993540887112115,"['Computer Science', 'Business']",Engineering,kinesthetic,2023-02-12
+ST0533,2.838450269503024,"['Business', 'Computer Science']",Engineering,reading,2024-02-04
+ST0534,2.3883363882590096,"['Social Sciences', 'Computer Science']",Mathematics,reading,2022-10-18
+ST0535,1.906141086737138,"['Arts', 'Computer Science']",Mathematics,reading,2023-02-19
+ST0536,2.3628154263151235,"['Business', 'Arts']",Arts,auditory,2022-10-03
+ST0537,2.7488424386407866,"['Computer Science', 'Arts']",Computer Science,reading,2023-08-09
+ST0538,3.437264607057832,"['Engineering', 'Social Sciences']",Computer Science,kinesthetic,2025-03-09
+ST0539,4.402395663939666,"['Arts', 'Engineering']",Business,visual,2024-06-30
+ST0540,2.6092469772991733,"['Business', 'Computer Science']",Engineering,kinesthetic,2025-05-06
+ST0541,2.531562214960232,"['Physics', 'Arts']",Computer Science,reading,2024-12-16
+ST0542,3.2845961819039555,"['Physics', 'Social Sciences']",Physics,visual,2024-10-05
+ST0543,3.2567464384130504,"['Engineering', 'Physics']",Physics,kinesthetic,2023-04-27
+ST0544,3.7763633727685466,"['Mathematics', 'Social Sciences']",Social Sciences,reading,2023-10-08
+ST0545,2.6415210923883414,"['Mathematics', 'Arts']",Arts,auditory,2025-01-02
+ST0546,3.5681870823408897,"['Mathematics', 'Arts']",Arts,reading,2024-08-05
+ST0547,3.1571709914124124,"['Arts', 'Social Sciences']",Physics,auditory,2025-06-03
+ST0548,3.265616071070375,"['Computer Science', 'Business']",Arts,visual,2022-10-06
+ST0549,3.500438630463163,"['Engineering', 'Physics']",Physics,visual,2024-08-10
+ST0550,3.3457801957823063,"['Business', 'Social Sciences']",Arts,reading,2023-10-20
+ST0551,2.8704493117154364,"['Business', 'Computer Science']",Business,kinesthetic,2024-02-29
+ST0552,3.1065353823412636,"['Physics', 'Computer Science']",Social Sciences,visual,2023-02-10
+ST0553,2.063638108364793,"['Social Sciences', 'Engineering']",Business,kinesthetic,2025-01-17
+ST0554,3.290039736885673,"['Social Sciences', 'Computer Science']",Arts,reading,2025-04-28
+ST0555,3.7984629092832467,"['Physics', 'Computer Science']",Social Sciences,kinesthetic,2023-01-31
+ST0556,3.021370491180234,"['Engineering', 'Physics']",Physics,visual,2024-03-24
+ST0557,2.844258956113649,"['Engineering', 'Social Sciences']",Social Sciences,kinesthetic,2024-11-06
+ST0558,1.9646842587718594,"['Engineering', 'Physics']",Mathematics,kinesthetic,2023-05-10
+ST0559,2.652226395379517,"['Engineering', 'Business']",Physics,auditory,2022-12-24
+ST0560,3.2884865747969454,"['Social Sciences', 'Computer Science']",Physics,kinesthetic,2024-04-01
+ST0561,2.630071889293385,"['Arts', 'Social Sciences']",Arts,kinesthetic,2024-12-04
+ST0562,2.757459067193944,"['Social Sciences', 'Physics']",Physics,visual,2023-03-06
+ST0563,3.004654168580199,"['Arts', 'Computer Science']",Arts,auditory,2022-11-27
+ST0564,3.455544319440917,"['Social Sciences', 'Computer Science']",Computer Science,kinesthetic,2024-09-24
+ST0565,2.891114002764419,"['Engineering', 'Mathematics']",Engineering,auditory,2025-04-16
+ST0566,2.747747045006711,"['Physics', 'Social Sciences']",Business,kinesthetic,2023-05-21
+ST0567,2.8995659570156733,"['Arts', 'Engineering']",Physics,auditory,2024-10-22
+ST0568,2.84177208104343,"['Social Sciences', 'Computer Science']",Mathematics,visual,2024-01-18
+ST0569,3.075101764342414,"['Physics', 'Social Sciences']",Computer Science,kinesthetic,2025-01-13
+ST0570,2.8015568542858547,"['Arts', 'Social Sciences']",Computer Science,auditory,2022-11-02
+ST0571,2.207265511066399,"['Physics', 'Arts']",Arts,visual,2022-10-19
+ST0572,3.200913828250516,"['Business', 'Physics']",Physics,reading,2024-03-04
+ST0573,3.107435635395637,"['Computer Science', 'Mathematics']",Business,kinesthetic,2023-06-14
+ST0574,3.3093093100949655,"['Mathematics', 'Business']",Social Sciences,reading,2022-12-17
+ST0575,2.9451200411309153,"['Business', 'Engineering']",Mathematics,visual,2025-04-24
+ST0576,3.6935505371502035,"['Engineering', 'Computer Science']",Business,visual,2024-03-09
+ST0577,3.040326971951629,"['Engineering', 'Business']",Mathematics,auditory,2023-12-15
+ST0578,2.380374318521545,"['Business', 'Mathematics']",Arts,auditory,2023-06-02
+ST0579,2.4760726284445127,"['Arts', 'Physics']",Computer Science,kinesthetic,2023-08-11
+ST0580,2.8366128528623307,"['Social Sciences', 'Mathematics']",Business,kinesthetic,2023-08-19
+ST0581,3.1672204381365674,"['Arts', 'Business']",Physics,reading,2022-12-22
+ST0582,3.6377632920027883,"['Business', 'Physics']",Engineering,kinesthetic,2024-08-08
+ST0583,2.968457908889722,"['Business', 'Physics']",Physics,visual,2023-09-19
+ST0584,3.0686577079630046,"['Computer Science', 'Social Sciences']",Business,visual,2024-12-27
+ST0585,3.008613121485095,"['Computer Science', 'Physics']",Computer Science,visual,2023-05-27
+ST0586,2.64357259737353,"['Business', 'Mathematics']",Business,auditory,2023-03-19
+ST0587,3.389271062909087,"['Social Sciences', 'Arts']",Engineering,visual,2023-08-05
+ST0588,3.349318020844791,"['Mathematics', 'Arts']",Social Sciences,auditory,2024-01-31
+ST0589,2.732848292430331,"['Computer Science', 'Mathematics']",Physics,kinesthetic,2024-01-23
+ST0590,3.9719685713090236,"['Arts', 'Engineering']",Computer Science,auditory,2023-07-17
+ST0591,3.441963055420269,"['Social Sciences', 'Business']",Computer Science,kinesthetic,2024-08-06
+ST0592,2.945992335328668,"['Arts', 'Business']",Mathematics,visual,2024-02-09
+ST0593,1.1585857496595542,"['Physics', 'Computer Science']",Arts,visual,2022-09-26
+ST0594,2.8657695909328735,"['Engineering', 'Computer Science']",Arts,reading,2024-05-01
+ST0595,3.331074090988909,"['Engineering', 'Mathematics']",Mathematics,visual,2025-05-11
+ST0596,2.3782574319846486,"['Social Sciences', 'Physics']",Social Sciences,visual,2025-02-02
+ST0597,3.326775074381003,"['Physics', 'Arts']",Social Sciences,visual,2023-10-01
+ST0598,3.373307594954241,"['Business', 'Mathematics']",Business,reading,2024-12-05
+ST0599,2.2177225820118953,"['Engineering', 'Computer Science']",Engineering,visual,2023-07-13
+ST0600,3.4425292971575363,"['Business', 'Social Sciences']",Engineering,auditory,2024-10-14
+ST0601,3.221273099129882,"['Engineering', 'Arts']",Arts,kinesthetic,2023-02-27
+ST0602,3.3826484839013222,"['Arts', 'Computer Science']",Arts,reading,2025-05-30
+ST0603,2.9274371991322345,"['Physics', 'Arts']",Mathematics,kinesthetic,2024-10-29
+ST0604,3.3280018044297908,"['Engineering', 'Mathematics']",Arts,auditory,2024-05-13
+ST0605,2.887321820168396,"['Mathematics', 'Physics']",Social Sciences,auditory,2024-03-23
+ST0606,4.0907177916664,"['Mathematics', 'Computer Science']",Social Sciences,visual,2024-12-17
+ST0607,2.5944338298409644,"['Arts', 'Social Sciences']",Business,visual,2024-06-04
+ST0608,4.090047917962689,"['Business', 'Physics']",Engineering,reading,2023-01-08
+ST0609,2.317256505536079,"['Arts', 'Business']",Business,visual,2024-12-13
+ST0610,2.7538462291367853,"['Computer Science', 'Mathematics']",Mathematics,reading,2025-02-19
+ST0611,2.4198916493801703,"['Physics', 'Mathematics']",Physics,reading,2025-03-05
+ST0612,2.7923869896840454,"['Business', 'Engineering']",Computer Science,reading,2025-01-26
+ST0613,2.577023498103991,"['Computer Science', 'Social Sciences']",Physics,reading,2024-08-15
+ST0614,2.292068268489111,"['Business', 'Computer Science']",Computer Science,reading,2025-03-23
+ST0615,3.1855112196785393,"['Physics', 'Mathematics']",Engineering,kinesthetic,2024-12-14
+ST0616,3.1098799492851157,"['Computer Science', 'Mathematics']",Social Sciences,auditory,2024-12-10
+ST0617,3.7115179269384395,"['Computer Science', 'Social Sciences']",Engineering,auditory,2022-10-25
+ST0618,2.2468529009980767,"['Arts', 'Physics']",Physics,visual,2023-08-24
+ST0619,3.2352912961725737,"['Arts', 'Physics']",Mathematics,kinesthetic,2023-06-30
+ST0620,3.2369370152868493,"['Engineering', 'Business']",Arts,auditory,2024-02-17
+ST0621,2.964167215167643,"['Business', 'Engineering']",Mathematics,kinesthetic,2024-05-16
+ST0622,2.0245332247766616,"['Business', 'Computer Science']",Social Sciences,visual,2023-04-18
+ST0623,3.645004272563189,"['Social Sciences', 'Computer Science']",Physics,kinesthetic,2024-12-17
+ST0624,2.577907279219993,"['Engineering', 'Arts']",Engineering,kinesthetic,2024-12-22
+ST0625,2.848946222445237,"['Business', 'Engineering']",Computer Science,auditory,2022-11-03
+ST0626,2.645973974962811,"['Physics', 'Engineering']",Engineering,visual,2023-11-17
+ST0627,2.902235146067608,"['Physics', 'Arts']",Business,kinesthetic,2024-05-25
+ST0628,2.5323842110281425,"['Social Sciences', 'Mathematics']",Arts,reading,2024-08-23
+ST0629,3.014044094803972,"['Business', 'Physics']",Business,auditory,2023-08-17
+ST0630,3.2070371028923974,"['Engineering', 'Arts']",Computer Science,reading,2022-10-06
+ST0631,3.6838388651967358,"['Business', 'Social Sciences']",Social Sciences,visual,2023-03-15
+ST0632,3.6817756660532095,"['Computer Science', 'Social Sciences']",Physics,auditory,2024-02-22
+ST0633,2.0909087587760604,"['Business', 'Mathematics']",Physics,visual,2023-02-18
+ST0634,2.695096204795635,"['Physics', 'Social Sciences']",Computer Science,kinesthetic,2024-12-22
+ST0635,3.336492431139847,"['Social Sciences', 'Business']",Physics,visual,2023-05-11
+ST0636,2.75408086840161,"['Social Sciences', 'Arts']",Physics,visual,2024-04-01
+ST0637,3.227762767487052,"['Mathematics', 'Business']",Engineering,auditory,2022-11-12
+ST0638,3.7342433914220496,"['Mathematics', 'Social Sciences']",Computer Science,kinesthetic,2024-07-01
+ST0639,3.8664210057639385,"['Arts', 'Social Sciences']",Business,visual,2024-12-15
+ST0640,3.093572416613693,"['Computer Science', 'Engineering']",Arts,visual,2025-05-19
+ST0641,3.4375474879754124,"['Physics', 'Social Sciences']",Social Sciences,kinesthetic,2023-11-16
+ST0642,2.0272712172969576,"['Mathematics', 'Computer Science']",Social Sciences,reading,2024-09-26
+ST0643,3.833914566608966,"['Social Sciences', 'Mathematics']",Physics,reading,2024-11-14
+ST0644,2.264646009429869,"['Engineering', 'Mathematics']",Computer Science,reading,2024-07-14
+ST0645,2.987023087927685,"['Social Sciences', 'Arts']",Physics,kinesthetic,2024-08-31
+ST0646,3.8484632995740102,"['Computer Science', 'Social Sciences']",Physics,auditory,2023-03-03
+ST0647,2.878447881373705,"['Computer Science', 'Physics']",Mathematics,reading,2024-05-09
+ST0648,3.2540407642364104,"['Physics', 'Computer Science']",Arts,reading,2022-12-25
+ST0649,2.684500592475103,"['Mathematics', 'Computer Science']",Physics,reading,2023-06-23
+ST0650,3.187614717716326,"['Physics', 'Computer Science']",Social Sciences,kinesthetic,2023-01-10
+ST0651,2.973337098516331,"['Computer Science', 'Business']",Arts,visual,2025-01-29
+ST0652,2.818460190176261,"['Business', 'Physics']",Social Sciences,auditory,2024-03-02
+ST0653,2.0491560057579603,"['Social Sciences', 'Engineering']",Physics,kinesthetic,2024-06-01
+ST0654,2.6893533545896275,"['Engineering', 'Social Sciences']",Mathematics,visual,2025-03-02
+ST0655,2.9779819424883147,"['Physics', 'Arts']",Engineering,visual,2023-11-26
+ST0656,3.653173613460791,"['Business', 'Arts']",Social Sciences,visual,2024-12-04
+ST0657,3.4405258830464525,"['Mathematics', 'Social Sciences']",Engineering,auditory,2023-08-09
+ST0658,3.1688265500436565,"['Engineering', 'Arts']",Arts,visual,2023-12-24
+ST0659,2.948896844003327,"['Arts', 'Physics']",Mathematics,auditory,2023-10-05
+ST0660,1.7903312070307276,"['Physics', 'Social Sciences']",Mathematics,visual,2024-07-26
+ST0661,2.891419314166732,"['Arts', 'Social Sciences']",Computer Science,kinesthetic,2022-11-06
+ST0662,3.754002975054778,"['Computer Science', 'Arts']",Engineering,kinesthetic,2023-02-15
+ST0663,2.4429483553447255,"['Social Sciences', 'Business']",Arts,auditory,2022-09-20
+ST0664,2.657032734221331,"['Business', 'Physics']",Physics,kinesthetic,2025-02-15
+ST0665,2.3193496542293905,"['Engineering', 'Arts']",Arts,auditory,2023-02-06
+ST0666,2.998832906643097,"['Mathematics', 'Business']",Physics,kinesthetic,2023-10-18
+ST0667,2.847900051831835,"['Business', 'Social Sciences']",Social Sciences,auditory,2023-02-28
+ST0668,2.0181388312534807,"['Engineering', 'Business']",Social Sciences,visual,2022-12-31
+ST0669,2.9460918420870588,"['Arts', 'Mathematics']",Mathematics,kinesthetic,2024-07-21
+ST0670,2.3360951003176464,"['Physics', 'Business']",Social Sciences,reading,2023-10-09
+ST0671,3.031758786508399,"['Business', 'Arts']",Engineering,kinesthetic,2024-08-20
+ST0672,2.911154834431528,"['Engineering', 'Computer Science']",Computer Science,reading,2023-05-13
+ST0673,3.4131725001327577,"['Physics', 'Social Sciences']",Engineering,auditory,2023-09-14
+ST0674,2.2933660023840674,"['Arts', 'Computer Science']",Business,visual,2025-02-03
+ST0675,2.992410454947191,"['Physics', 'Engineering']",Arts,kinesthetic,2024-12-21
+ST0676,3.0129746249113523,"['Physics', 'Mathematics']",Mathematics,kinesthetic,2024-03-28
+ST0677,2.449123836639175,"['Engineering', 'Arts']",Computer Science,kinesthetic,2024-07-15
+ST0678,2.852490890209213,"['Arts', 'Business']",Mathematics,reading,2024-08-20
+ST0679,3.087512830404976,"['Business', 'Physics']",Arts,visual,2024-02-01
+ST0680,3.1933662548009103,"['Business', 'Computer Science']",Social Sciences,reading,2023-05-06
+ST0681,2.9632997292912715,"['Computer Science', 'Arts']",Physics,reading,2023-08-29
+ST0682,3.0829658588010007,"['Business', 'Computer Science']",Mathematics,kinesthetic,2024-11-23
+ST0683,2.8721526416174923,"['Mathematics', 'Social Sciences']",Physics,auditory,2022-12-20
+ST0684,3.4171866840266856,"['Mathematics', 'Business']",Business,kinesthetic,2024-12-26
+ST0685,4.091570550282062,"['Arts', 'Social Sciences']",Computer Science,auditory,2024-11-06
+ST0686,2.999607798034507,"['Arts', 'Business']",Mathematics,reading,2023-11-24
+ST0687,3.0079312870102908,"['Social Sciences', 'Arts']",Business,visual,2024-07-13
+ST0688,3.2677451058002256,"['Social Sciences', 'Physics']",Arts,reading,2024-11-13
+ST0689,3.645442009427749,"['Arts', 'Mathematics']",Engineering,visual,2023-04-14
+ST0690,2.7562148940177136,"['Mathematics', 'Social Sciences']",Arts,reading,2024-09-16
+ST0691,3.120396220257376,"['Mathematics', 'Business']",Engineering,reading,2024-12-26
+ST0692,3.8072257394523867,"['Business', 'Physics']",Social Sciences,visual,2023-05-19
+ST0693,3.117374917791257,"['Arts', 'Physics']",Social Sciences,auditory,2022-12-16
+ST0694,3.097045287401852,"['Computer Science', 'Physics']",Physics,kinesthetic,2023-09-14
+ST0695,2.993014569032547,"['Computer Science', 'Engineering']",Mathematics,reading,2025-03-09
+ST0696,3.4047960743915855,"['Mathematics', 'Business']",Physics,reading,2024-06-18
+ST0697,3.314760502676446,"['Mathematics', 'Physics']",Social Sciences,reading,2024-04-22
+ST0698,2.8310401797119678,"['Physics', 'Arts']",Mathematics,reading,2025-01-23
+ST0699,3.552765481841726,"['Physics', 'Mathematics']",Computer Science,reading,2023-04-24
+ST0700,2.9235709174261038,"['Business', 'Computer Science']",Physics,auditory,2023-05-09
+ST0701,2.9372706216349953,"['Computer Science', 'Arts']",Social Sciences,auditory,2023-05-24
+ST0702,4.050666502401359,"['Physics', 'Social Sciences']",Social Sciences,reading,2023-02-16
+ST0703,2.404017904878697,"['Business', 'Social Sciences']",Social Sciences,visual,2024-03-12
+ST0704,3.6990753584632676,"['Mathematics', 'Arts']",Arts,visual,2023-03-31
+ST0705,2.602819622759348,"['Physics', 'Mathematics']",Arts,reading,2023-04-21
+ST0706,3.366411478657343,"['Mathematics', 'Computer Science']",Business,reading,2024-05-18
+ST0707,2.6433581513899718,"['Computer Science', 'Social Sciences']",Physics,auditory,2023-10-18
+ST0708,2.508868688998591,"['Social Sciences', 'Computer Science']",Physics,reading,2023-01-02
+ST0709,2.5984556555146825,"['Arts', 'Computer Science']",Arts,kinesthetic,2025-02-12
+ST0710,3.016053857678831,"['Mathematics', 'Business']",Arts,reading,2024-06-08
+ST0711,2.4464588765574184,"['Mathematics', 'Arts']",Mathematics,kinesthetic,2024-11-18
+ST0712,3.150639088690747,"['Engineering', 'Arts']",Arts,kinesthetic,2024-12-23
+ST0713,3.244192785686908,"['Arts', 'Physics']",Social Sciences,kinesthetic,2023-03-12
+ST0714,3.514106194781913,"['Business', 'Arts']",Mathematics,kinesthetic,2024-06-12
+ST0715,2.649998848228721,"['Computer Science', 'Physics']",Business,visual,2025-03-13
+ST0716,2.5532784454265918,"['Arts', 'Engineering']",Social Sciences,reading,2024-07-06
+ST0717,3.154089218556099,"['Business', 'Computer Science']",Arts,visual,2022-10-06
+ST0718,3.214038832715889,"['Business', 'Mathematics']",Computer Science,kinesthetic,2023-03-23
+ST0719,3.369612686317768,"['Mathematics', 'Business']",Mathematics,kinesthetic,2024-05-04
+ST0720,3.2122780706776157,"['Business', 'Mathematics']",Computer Science,visual,2024-05-19
+ST0721,3.216713808238409,"['Social Sciences', 'Business']",Computer Science,visual,2025-04-09
+ST0722,3.1112171922411416,"['Computer Science', 'Mathematics']",Arts,auditory,2025-04-30
+ST0723,2.4090745641809086,"['Social Sciences', 'Physics']",Social Sciences,visual,2024-06-19
+ST0724,2.6020151302040277,"['Engineering', 'Computer Science']",Engineering,reading,2023-05-22
+ST0725,3.119352796582635,"['Social Sciences', 'Physics']",Business,visual,2025-01-29
+ST0726,3.42409014344505,"['Arts', 'Business']",Computer Science,kinesthetic,2025-04-16
+ST0727,2.982199856229632,"['Social Sciences', 'Business']",Computer Science,visual,2023-05-17
+ST0728,2.8746922123686924,"['Business', 'Physics']",Arts,kinesthetic,2023-09-02
+ST0729,3.1030974857700477,"['Arts', 'Engineering']",Social Sciences,kinesthetic,2024-06-04
+ST0730,3.1873871047367586,"['Physics', 'Computer Science']",Arts,kinesthetic,2024-04-02
+ST0731,2.46351454339605,"['Arts', 'Computer Science']",Physics,auditory,2023-09-26
+ST0732,3.4087884201641447,"['Engineering', 'Mathematics']",Social Sciences,reading,2024-09-04
+ST0733,3.5962949689836785,"['Computer Science', 'Arts']",Physics,auditory,2022-12-08
+ST0734,3.179819678785516,"['Social Sciences', 'Physics']",Engineering,auditory,2022-11-16
+ST0735,3.170057469968211,"['Physics', 'Engineering']",Mathematics,reading,2023-05-08
+ST0736,2.615067184855836,"['Business', 'Arts']",Social Sciences,auditory,2024-07-09
+ST0737,3.825966477514193,"['Physics', 'Business']",Arts,reading,2024-03-21
+ST0738,3.4214619453070623,"['Physics', 'Mathematics']",Engineering,auditory,2024-01-17
+ST0739,3.5188245671317007,"['Mathematics', 'Physics']",Social Sciences,kinesthetic,2024-04-06
+ST0740,2.66847903845522,"['Social Sciences', 'Physics']",Engineering,auditory,2024-01-24
+ST0741,2.5519979801641255,"['Business', 'Arts']",Arts,kinesthetic,2023-11-01
+ST0742,3.517717400945895,"['Physics', 'Arts']",Business,reading,2023-01-06
+ST0743,3.1055623502714513,"['Mathematics', 'Physics']",Business,kinesthetic,2024-06-08
+ST0744,3.373660847335157,"['Computer Science', 'Business']",Business,reading,2023-06-03
+ST0745,3.3462976245337868,"['Arts', 'Social Sciences']",Engineering,auditory,2023-01-15
+ST0746,2.991533374529257,"['Computer Science', 'Engineering']",Computer Science,auditory,2024-10-23
+ST0747,2.9840430382425804,"['Physics', 'Business']",Social Sciences,reading,2023-07-20
+ST0748,2.618343564859106,"['Physics', 'Computer Science']",Arts,reading,2024-10-30
+ST0749,1.7854218742348398,"['Physics', 'Engineering']",Mathematics,auditory,2023-11-19
+ST0750,2.6501434758669236,"['Mathematics', 'Business']",Engineering,reading,2024-07-11
+ST0751,2.972032910131253,"['Engineering', 'Computer Science']",Engineering,kinesthetic,2024-06-24
+ST0752,3.7247012173016247,"['Computer Science', 'Engineering']",Business,kinesthetic,2023-07-18
+ST0753,4.026721453040691,"['Physics', 'Arts']",Arts,visual,2023-10-24
+ST0754,2.181917453976377,"['Computer Science', 'Physics']",Computer Science,reading,2022-11-24
+ST0755,3.1947248897833056,"['Physics', 'Arts']",Computer Science,auditory,2023-08-15
+ST0756,2.7888636150513975,"['Physics', 'Business']",Mathematics,visual,2022-10-11
+ST0757,3.38053760576497,"['Physics', 'Social Sciences']",Social Sciences,visual,2024-02-19
+ST0758,2.7833258456566843,"['Engineering', 'Mathematics']",Engineering,auditory,2022-12-19
+ST0759,2.8107681080451985,"['Computer Science', 'Engineering']",Business,reading,2025-03-30
+ST0760,3.2481894909060576,"['Social Sciences', 'Arts']",Engineering,reading,2023-02-20
+ST0761,3.2433136405932856,"['Mathematics', 'Physics']",Social Sciences,reading,2023-04-23
+ST0762,2.939870492785983,"['Mathematics', 'Computer Science']",Physics,kinesthetic,2023-10-18
+ST0763,2.7366283465995873,"['Physics', 'Mathematics']",Mathematics,auditory,2024-09-18
+ST0764,3.293036040651228,"['Engineering', 'Social Sciences']",Engineering,auditory,2023-06-07
+ST0765,3.39388096840148,"['Mathematics', 'Computer Science']",Social Sciences,kinesthetic,2022-10-08
+ST0766,2.8319540680378386,"['Computer Science', 'Arts']",Physics,auditory,2024-01-11
+ST0767,2.6557640485521175,"['Business', 'Computer Science']",Computer Science,auditory,2024-05-06
+ST0768,3.5690076211297797,"['Computer Science', 'Business']",Physics,auditory,2025-03-08
+ST0769,2.8086129409629743,"['Engineering', 'Business']",Physics,auditory,2024-06-11
+ST0770,2.525949423375072,"['Engineering', 'Physics']",Mathematics,kinesthetic,2023-08-25
+ST0771,3.313464014591883,"['Business', 'Computer Science']",Social Sciences,reading,2024-06-24
+ST0772,2.8286875901870605,"['Business', 'Arts']",Business,reading,2025-06-13
+ST0773,3.327153458016987,"['Engineering', 'Arts']",Physics,auditory,2023-12-02
+ST0774,3.445570407710566,"['Arts', 'Engineering']",Business,kinesthetic,2023-03-09
+ST0775,2.490352910010476,"['Social Sciences', 'Mathematics']",Physics,auditory,2025-04-30
+ST0776,3.260001550128041,"['Mathematics', 'Business']",Business,auditory,2023-10-01
+ST0777,2.763895986948854,"['Physics', 'Arts']",Arts,kinesthetic,2024-01-09
+ST0778,3.1056357011147067,"['Arts', 'Social Sciences']",Business,kinesthetic,2023-12-17
+ST0779,2.9102534795529786,"['Arts', 'Physics']",Arts,auditory,2023-06-26
+ST0780,3.458393674529724,"['Social Sciences', 'Computer Science']",Physics,auditory,2025-03-24
+ST0781,3.521145459814388,"['Computer Science', 'Engineering']",Business,reading,2023-01-31
+ST0782,4.080998706114507,"['Mathematics', 'Physics']",Computer Science,auditory,2023-06-22
+ST0783,2.9333768883679703,"['Social Sciences', 'Computer Science']",Social Sciences,kinesthetic,2022-12-15
+ST0784,2.2559312184506024,"['Physics', 'Arts']",Engineering,kinesthetic,2023-06-25
+ST0785,3.3542783300003056,"['Business', 'Arts']",Engineering,kinesthetic,2022-11-12
+ST0786,2.833289815869184,"['Social Sciences', 'Mathematics']",Physics,visual,2023-09-21
+ST0787,2.0509152931268844,"['Social Sciences', 'Arts']",Mathematics,reading,2025-06-09
+ST0788,4.183390529010919,"['Engineering', 'Computer Science']",Physics,kinesthetic,2025-01-18
+ST0789,2.7200121701923043,"['Mathematics', 'Business']",Mathematics,kinesthetic,2024-11-02
+ST0790,2.734778260961392,"['Physics', 'Engineering']",Business,auditory,2025-03-11
+ST0791,3.1658550312021725,"['Arts', 'Engineering']",Social Sciences,auditory,2023-05-28
+ST0792,3.1708390039021057,"['Business', 'Mathematics']",Social Sciences,kinesthetic,2024-03-10
+ST0793,3.3924637937723037,"['Arts', 'Social Sciences']",Arts,visual,2023-04-08
+ST0794,2.1418324321723623,"['Social Sciences', 'Mathematics']",Mathematics,visual,2023-05-04
+ST0795,2.4224451100971023,"['Physics', 'Engineering']",Mathematics,kinesthetic,2024-10-20
+ST0796,3.986176844985111,"['Physics', 'Social Sciences']",Engineering,visual,2023-06-05
+ST0797,3.11430205904343,"['Computer Science', 'Engineering']",Business,kinesthetic,2024-01-12
+ST0798,2.9547470933044417,"['Mathematics', 'Social Sciences']",Social Sciences,auditory,2024-01-19
+ST0799,4.038241451683615,"['Social Sciences', 'Computer Science']",Computer Science,reading,2025-01-05
+ST0800,2.6730473159754737,"['Business', 'Arts']",Computer Science,visual,2024-07-05
+ST0801,3.1951049582576485,"['Engineering', 'Mathematics']",Social Sciences,visual,2023-06-20
+ST0802,2.6902746780517273,"['Mathematics', 'Business']",Arts,auditory,2025-02-05
+ST0803,2.8456319295709864,"['Computer Science', 'Business']",Mathematics,visual,2024-02-21
+ST0804,3.3306650979746055,"['Social Sciences', 'Arts']",Computer Science,auditory,2024-06-21
+ST0805,3.2693801385132852,"['Arts', 'Business']",Social Sciences,auditory,2025-04-20
+ST0806,2.728334369933548,"['Engineering', 'Physics']",Business,reading,2023-10-02
+ST0807,2.432902079354176,"['Business', 'Arts']",Social Sciences,kinesthetic,2022-09-22
+ST0808,2.8860126643095025,"['Engineering', 'Physics']",Computer Science,auditory,2025-04-10
+ST0809,3.3444580198150122,"['Computer Science', 'Mathematics']",Business,reading,2025-01-07
+ST0810,3.2309117855846226,"['Engineering', 'Mathematics']",Physics,visual,2024-12-02
+ST0811,3.361595426772979,"['Engineering', 'Computer Science']",Social Sciences,visual,2023-06-23
+ST0812,3.7058701813565333,"['Business', 'Physics']",Computer Science,kinesthetic,2023-03-20
+ST0813,3.2560700518143366,"['Business', 'Physics']",Physics,reading,2023-09-24
+ST0814,2.9011374351857433,"['Business', 'Computer Science']",Arts,reading,2023-04-28
+ST0815,3.1804315129010887,"['Business', 'Physics']",Arts,visual,2022-10-24
+ST0816,3.882718617165792,"['Engineering', 'Physics']",Arts,visual,2023-09-28
+ST0817,2.428623384385723,"['Physics', 'Mathematics']",Physics,auditory,2024-03-25
+ST0818,2.0820258872826565,"['Business', 'Computer Science']",Physics,auditory,2023-12-05
+ST0819,2.4127942834509604,"['Social Sciences', 'Computer Science']",Physics,kinesthetic,2025-05-03
+ST0820,2.759965346896595,"['Physics', 'Computer Science']",Engineering,reading,2024-08-19
+ST0821,3.025791478344243,"['Social Sciences', 'Physics']",Arts,auditory,2024-12-06
+ST0822,3.9600877968020978,"['Physics', 'Arts']",Engineering,visual,2025-05-15
+ST0823,2.1218054425295048,"['Physics', 'Mathematics']",Computer Science,visual,2023-12-31
+ST0824,3.4175386219970374,"['Mathematics', 'Social Sciences']",Arts,kinesthetic,2024-08-29
+ST0825,3.50551375237174,"['Business', 'Physics']",Computer Science,visual,2025-01-22
+ST0826,4.041572108203579,"['Mathematics', 'Arts']",Mathematics,reading,2023-11-08
+ST0827,2.9498658265911577,"['Social Sciences', 'Engineering']",Business,visual,2022-11-07
+ST0828,3.4671406653804087,"['Physics', 'Engineering']",Arts,visual,2025-04-18
+ST0829,1.9301383787898285,"['Business', 'Engineering']",Arts,kinesthetic,2024-03-04
+ST0830,3.59710267778623,"['Physics', 'Engineering']",Business,reading,2024-06-17
+ST0831,2.699603201252636,"['Physics', 'Social Sciences']",Business,reading,2024-04-17
+ST0832,3.073428707662419,"['Physics', 'Arts']",Social Sciences,kinesthetic,2024-10-06
+ST0833,2.932618161781705,"['Arts', 'Computer Science']",Physics,visual,2024-11-18
+ST0834,2.6651419251141197,"['Computer Science', 'Physics']",Business,auditory,2024-04-20
+ST0835,2.7024377307715666,"['Social Sciences', 'Engineering']",Arts,auditory,2025-06-04
+ST0836,2.7007452121159394,"['Social Sciences', 'Engineering']",Mathematics,auditory,2025-01-29
+ST0837,2.787621392916117,"['Business', 'Social Sciences']",Physics,visual,2025-03-03
+ST0838,3.237941243015283,"['Social Sciences', 'Mathematics']",Computer Science,reading,2023-12-15
+ST0839,2.8984014850183937,"['Mathematics', 'Arts']",Social Sciences,visual,2024-05-22
+ST0840,2.9189811367979446,"['Social Sciences', 'Arts']",Physics,reading,2022-10-15
+ST0841,3.2121874378649022,"['Mathematics', 'Social Sciences']",Arts,reading,2022-12-26
+ST0842,2.8633729826691154,"['Physics', 'Social Sciences']",Social Sciences,reading,2024-01-16
+ST0843,2.4777808574613958,"['Physics', 'Mathematics']",Physics,auditory,2024-04-23
+ST0844,2.519935831848553,"['Arts', 'Social Sciences']",Computer Science,visual,2024-10-02
+ST0845,3.205421134726535,"['Engineering', 'Computer Science']",Mathematics,kinesthetic,2025-03-03
+ST0846,2.955611406183566,"['Social Sciences', 'Engineering']",Physics,auditory,2024-05-23
+ST0847,3.878331115468769,"['Arts', 'Business']",Arts,reading,2025-02-15
+ST0848,2.384146473393182,"['Computer Science', 'Mathematics']",Engineering,auditory,2023-03-21
+ST0849,2.301306519891839,"['Mathematics', 'Engineering']",Engineering,kinesthetic,2024-07-07
+ST0850,3.8415986012900114,"['Mathematics', 'Physics']",Social Sciences,kinesthetic,2023-05-28
+ST0851,3.2395768453904292,"['Business', 'Engineering']",Computer Science,auditory,2022-10-02
+ST0852,1.9634520125178052,"['Social Sciences', 'Mathematics']",Mathematics,visual,2023-07-04
+ST0853,3.1996427391916304,"['Physics', 'Computer Science']",Engineering,visual,2024-04-29
+ST0854,2.489011320807079,"['Computer Science', 'Engineering']",Physics,kinesthetic,2023-06-28
+ST0855,3.185760530729276,"['Computer Science', 'Mathematics']",Mathematics,reading,2024-06-18
+ST0856,3.360170617702633,"['Arts', 'Business']",Computer Science,kinesthetic,2024-06-02
+ST0857,2.645607460580309,"['Arts', 'Social Sciences']",Arts,auditory,2023-10-05
+ST0858,3.253704830919017,"['Business', 'Mathematics']",Mathematics,visual,2025-02-21
+ST0859,2.7593820051411067,"['Social Sciences', 'Mathematics']",Mathematics,auditory,2024-07-25
+ST0860,2.830914472770798,"['Business', 'Social Sciences']",Business,kinesthetic,2024-01-18
+ST0861,2.664997231629927,"['Business', 'Mathematics']",Social Sciences,auditory,2023-03-05
+ST0862,2.724460538294501,"['Engineering', 'Business']",Social Sciences,auditory,2024-07-02
+ST0863,2.486568322254449,"['Physics', 'Social Sciences']",Arts,kinesthetic,2023-02-21
+ST0864,4.10512476520061,"['Arts', 'Business']",Engineering,reading,2024-07-01
+ST0865,2.8830768100800306,"['Computer Science', 'Arts']",Arts,reading,2024-02-09
+ST0866,3.734482991471812,"['Arts', 'Computer Science']",Engineering,kinesthetic,2023-11-10
+ST0867,3.143532633733704,"['Business', 'Computer Science']",Arts,visual,2023-11-18
+ST0868,2.2378560857714334,"['Arts', 'Mathematics']",Arts,visual,2024-06-08
+ST0869,2.1644583408693365,"['Business', 'Arts']",Mathematics,visual,2023-03-23
+ST0870,3.04544935835041,"['Physics', 'Social Sciences']",Arts,auditory,2025-02-01
+ST0871,2.6986859025997885,"['Business', 'Arts']",Social Sciences,kinesthetic,2025-01-24
+ST0872,2.9432771314518713,"['Business', 'Computer Science']",Engineering,reading,2025-03-17
+ST0873,2.2651539251926125,"['Arts', 'Social Sciences']",Computer Science,reading,2024-10-30
+ST0874,2.7509068456143853,"['Physics', 'Social Sciences']",Social Sciences,kinesthetic,2022-12-09
+ST0875,3.0214290318044053,"['Engineering', 'Arts']",Physics,kinesthetic,2025-05-12
+ST0876,2.927821446343784,"['Mathematics', 'Business']",Arts,kinesthetic,2024-09-12
+ST0877,3.57562557481683,"['Business', 'Social Sciences']",Engineering,auditory,2024-05-28
+ST0878,3.6754523092711,"['Business', 'Mathematics']",Physics,kinesthetic,2025-03-27
+ST0879,3.0386711730061555,"['Engineering', 'Computer Science']",Computer Science,reading,2023-07-25
+ST0880,2.319759860956751,"['Physics', 'Business']",Physics,reading,2025-04-26
+ST0881,3.261811675223744,"['Mathematics', 'Physics']",Engineering,kinesthetic,2022-12-24
+ST0882,2.683900839693272,"['Business', 'Arts']",Computer Science,reading,2022-12-18
+ST0883,3.825182514762754,"['Social Sciences', 'Engineering']",Physics,reading,2023-07-29
+ST0884,1.988107134490917,"['Computer Science', 'Arts']",Engineering,kinesthetic,2024-01-07
+ST0885,2.4436066256818503,"['Engineering', 'Physics']",Mathematics,visual,2023-08-21
+ST0886,2.395511504858905,"['Mathematics', 'Computer Science']",Arts,kinesthetic,2024-05-18
+ST0887,2.635416833094906,"['Arts', 'Physics']",Engineering,auditory,2023-03-05
+ST0888,2.94330201622173,"['Engineering', 'Arts']",Mathematics,kinesthetic,2024-08-16
+ST0889,3.3850536681569245,"['Computer Science', 'Engineering']",Social Sciences,kinesthetic,2024-10-22
+ST0890,2.6865215850919344,"['Social Sciences', 'Physics']",Engineering,visual,2024-12-30
+ST0891,2.015523556783334,"['Computer Science', 'Arts']",Business,kinesthetic,2024-08-31
+ST0892,2.5938484868721523,"['Business', 'Engineering']",Computer Science,kinesthetic,2024-07-06
+ST0893,2.189831046943007,"['Mathematics', 'Business']",Mathematics,visual,2024-09-19
+ST0894,3.4863424279379847,"['Arts', 'Engineering']",Mathematics,reading,2024-02-10
+ST0895,2.7509963036116476,"['Social Sciences', 'Engineering']",Arts,visual,2025-05-26
+ST0896,3.550007353216704,"['Business', 'Engineering']",Arts,visual,2023-02-12
+ST0897,2.4991411040944915,"['Physics', 'Business']",Arts,reading,2023-06-28
+ST0898,2.418727627428102,"['Physics', 'Business']",Physics,kinesthetic,2024-08-28
+ST0899,2.6689565571973426,"['Mathematics', 'Arts']",Business,kinesthetic,2023-03-18
+ST0900,3.2035945857734185,"['Arts', 'Social Sciences']",Physics,auditory,2023-03-21
+ST0901,3.096090731116043,"['Business', 'Computer Science']",Computer Science,kinesthetic,2024-06-12
+ST0902,3.788521328658433,"['Physics', 'Mathematics']",Engineering,reading,2023-05-30
+ST0903,3.1401031530066654,"['Engineering', 'Social Sciences']",Arts,visual,2022-10-06
+ST0904,3.313364786506958,"['Computer Science', 'Mathematics']",Business,auditory,2025-03-09
+ST0905,2.9175931725273365,"['Arts', 'Social Sciences']",Physics,visual,2025-05-14
+ST0906,3.737212944430211,"['Mathematics', 'Computer Science']",Business,reading,2024-06-15
+ST0907,3.3598286027005466,"['Engineering', 'Arts']",Engineering,visual,2024-08-15
+ST0908,3.2817837336361637,"['Engineering', 'Computer Science']",Engineering,auditory,2023-10-20
+ST0909,3.1194512182323098,"['Engineering', 'Business']",Business,auditory,2025-02-17
+ST0910,3.6199536102416414,"['Social Sciences', 'Physics']",Engineering,visual,2024-02-04
+ST0911,3.0593563895919624,"['Computer Science', 'Physics']",Engineering,auditory,2024-07-25
+ST0912,2.782142452563543,"['Physics', 'Business']",Computer Science,kinesthetic,2025-01-26
+ST0913,2.900103886771913,"['Physics', 'Mathematics']",Mathematics,auditory,2024-10-28
+ST0914,2.8306195650574804,"['Social Sciences', 'Mathematics']",Physics,auditory,2024-08-08
+ST0915,2.20227443217055,"['Mathematics', 'Physics']",Engineering,auditory,2024-06-26
+ST0916,2.316436999635036,"['Social Sciences', 'Computer Science']",Engineering,reading,2025-04-16
+ST0917,3.7281842250278956,"['Mathematics', 'Social Sciences']",Engineering,visual,2024-02-21
+ST0918,2.7592080971618587,"['Mathematics', 'Engineering']",Social Sciences,kinesthetic,2024-08-13
+ST0919,2.1254744769659775,"['Mathematics', 'Engineering']",Mathematics,kinesthetic,2025-01-19
+ST0920,3.0657248570471642,"['Social Sciences', 'Business']",Computer Science,auditory,2025-02-23
+ST0921,2.532666001925457,"['Social Sciences', 'Mathematics']",Engineering,reading,2023-05-01
+ST0922,2.592587135606907,"['Computer Science', 'Mathematics']",Business,reading,2024-03-19
+ST0923,2.486547504516409,"['Computer Science', 'Engineering']",Social Sciences,auditory,2025-04-28
+ST0924,2.4343876395627513,"['Physics', 'Engineering']",Physics,auditory,2025-06-09
+ST0925,3.3814703813121314,"['Social Sciences', 'Business']",Engineering,kinesthetic,2024-12-02
+ST0926,2.9756715197941963,"['Business', 'Mathematics']",Engineering,auditory,2023-04-02
+ST0927,3.1401144477407157,"['Physics', 'Social Sciences']",Mathematics,reading,2024-07-04
+ST0928,2.0588619041139946,"['Social Sciences', 'Mathematics']",Physics,auditory,2024-10-17
+ST0929,3.0883511415226494,"['Mathematics', 'Engineering']",Mathematics,reading,2023-07-11
+ST0930,3.6332699976045517,"['Engineering', 'Social Sciences']",Business,reading,2023-04-28
+ST0931,3.032610949279352,"['Arts', 'Mathematics']",Engineering,visual,2022-12-29
+ST0932,3.0579090292189006,"['Physics', 'Social Sciences']",Arts,kinesthetic,2024-05-26
+ST0933,3.4219215564745453,"['Arts', 'Social Sciences']",Computer Science,reading,2025-01-13
+ST0934,3.0852421789799784,"['Social Sciences', 'Mathematics']",Engineering,visual,2023-10-24
+ST0935,2.2777962232678473,"['Mathematics', 'Arts']",Social Sciences,auditory,2023-07-21
+ST0936,2.513121992639506,"['Engineering', 'Social Sciences']",Mathematics,visual,2023-08-02
+ST0937,3.31743912931458,"['Physics', 'Engineering']",Arts,kinesthetic,2025-03-04
+ST0938,3.3361451623781697,"['Business', 'Arts']",Computer Science,visual,2025-02-28
+ST0939,2.5096954030327154,"['Computer Science', 'Engineering']",Mathematics,reading,2024-05-28
+ST0940,2.6893423174474758,"['Arts', 'Social Sciences']",Social Sciences,auditory,2023-03-15
+ST0941,2.6278977438850744,"['Mathematics', 'Physics']",Physics,reading,2022-10-25
+ST0942,2.4441860798539783,"['Computer Science', 'Mathematics']",Physics,auditory,2025-01-14
+ST0943,2.2434098602762935,"['Computer Science', 'Physics']",Mathematics,visual,2023-08-01
+ST0944,1.9522355997091325,"['Social Sciences', 'Computer Science']",Arts,auditory,2023-11-29
+ST0945,3.3937299417174236,"['Physics', 'Social Sciences']",Mathematics,visual,2025-01-25
+ST0946,2.848648600425939,"['Arts', 'Business']",Engineering,reading,2024-11-02
+ST0947,2.9561599354711117,"['Computer Science', 'Arts']",Arts,visual,2024-02-14
+ST0948,2.3614116939681526,"['Engineering', 'Physics']",Arts,auditory,2025-04-01
+ST0949,2.709711300874604,"['Social Sciences', 'Physics']",Social Sciences,auditory,2023-03-30
+ST0950,3.970365444336669,"['Engineering', 'Social Sciences']",Engineering,reading,2023-08-03
+ST0951,3.228455488943653,"['Computer Science', 'Mathematics']",Physics,auditory,2024-06-06
+ST0952,3.3098065610555305,"['Mathematics', 'Social Sciences']",Mathematics,kinesthetic,2023-03-21
+ST0953,2.678968161008966,"['Engineering', 'Mathematics']",Engineering,kinesthetic,2024-08-17
+ST0954,2.4330249697874295,"['Physics', 'Engineering']",Physics,visual,2023-12-15
+ST0955,3.4488453472481035,"['Computer Science', 'Mathematics']",Mathematics,auditory,2024-09-01
+ST0956,2.987527087441702,"['Mathematics', 'Engineering']",Computer Science,reading,2023-05-03
+ST0957,3.2910232957768333,"['Engineering', 'Physics']",Mathematics,visual,2024-04-02
+ST0958,3.296637544960624,"['Arts', 'Physics']",Arts,reading,2023-09-28
+ST0959,2.953707977884961,"['Social Sciences', 'Business']",Physics,auditory,2024-02-25
+ST0960,2.557777594144266,"['Engineering', 'Computer Science']",Arts,reading,2025-02-10
+ST0961,2.4449037173656896,"['Business', 'Engineering']",Physics,reading,2023-09-10
+ST0962,2.418237898834489,"['Computer Science', 'Business']",Social Sciences,visual,2023-01-08
+ST0963,2.753881158294136,"['Physics', 'Mathematics']",Arts,visual,2023-07-07
+ST0964,2.6332378581457876,"['Engineering', 'Business']",Business,reading,2023-03-07
+ST0965,3.0378941458690503,"['Business', 'Engineering']",Computer Science,auditory,2024-11-28
+ST0966,3.2776495450449805,"['Business', 'Social Sciences']",Social Sciences,auditory,2023-02-19
+ST0967,3.728805805152717,"['Arts', 'Engineering']",Computer Science,kinesthetic,2023-07-03
+ST0968,2.9618846551885034,"['Physics', 'Computer Science']",Arts,visual,2023-08-01
+ST0969,2.4795552004794548,"['Social Sciences', 'Business']",Engineering,kinesthetic,2024-11-23
+ST0970,2.9878902730507186,"['Physics', 'Arts']",Social Sciences,auditory,2024-02-05
+ST0971,3.644768350008151,"['Mathematics', 'Computer Science']",Engineering,auditory,2024-02-16
+ST0972,2.8055170740216795,"['Physics', 'Computer Science']",Mathematics,auditory,2023-11-17
+ST0973,3.3434319945949857,"['Social Sciences', 'Mathematics']",Computer Science,auditory,2023-01-18
+ST0974,2.4771507909484254,"['Business', 'Social Sciences']",Business,reading,2024-09-11
+ST0975,3.162405497528823,"['Social Sciences', 'Engineering']",Arts,kinesthetic,2024-10-13
+ST0976,3.429328804037281,"['Computer Science', 'Business']",Social Sciences,kinesthetic,2025-05-12
+ST0977,3.22807975550582,"['Engineering', 'Social Sciences']",Computer Science,kinesthetic,2023-03-06
+ST0978,2.6629378196336253,"['Computer Science', 'Social Sciences']",Computer Science,auditory,2024-09-19
+ST0979,3.0423895539501147,"['Business', 'Engineering']",Arts,auditory,2025-04-29
+ST0980,3.105896799718144,"['Physics', 'Arts']",Mathematics,visual,2024-09-18
+ST0981,3.1739482515322432,"['Arts', 'Social Sciences']",Arts,reading,2022-09-25
+ST0982,3.078405956573439,"['Mathematics', 'Engineering']",Engineering,auditory,2024-08-04
+ST0983,2.7206698422885784,"['Arts', 'Engineering']",Social Sciences,reading,2024-12-03
+ST0984,3.267632870865926,"['Arts', 'Computer Science']",Engineering,kinesthetic,2024-12-27
+ST0985,4.085859538744612,"['Computer Science', 'Physics']",Arts,kinesthetic,2022-12-22
+ST0986,3.002419362846504,"['Business', 'Arts']",Engineering,visual,2025-01-24
+ST0987,2.1729151847161634,"['Computer Science', 'Engineering']",Arts,auditory,2022-11-26
+ST0988,3.2050617958510594,"['Computer Science', 'Engineering']",Physics,visual,2023-01-03
+ST0989,2.4879204751436834,"['Computer Science', 'Business']",Physics,visual,2023-03-21
+ST0990,3.053818121045716,"['Social Sciences', 'Physics']",Business,auditory,2025-06-04
+ST0991,3.2603901503907267,"['Engineering', 'Arts']",Business,visual,2023-01-01
+ST0992,2.7274383748689934,"['Social Sciences', 'Physics']",Social Sciences,reading,2024-09-21
+ST0993,3.369544937925981,"['Business', 'Social Sciences']",Social Sciences,kinesthetic,2023-09-26
+ST0994,2.5667408772378444,"['Mathematics', 'Computer Science']",Mathematics,reading,2024-08-09
+ST0995,3.097031847194347,"['Engineering', 'Business']",Arts,reading,2023-11-28
+ST0996,3.7431091225492703,"['Arts', 'Engineering']",Mathematics,auditory,2023-01-17
+ST0997,2.8770294689522165,"['Mathematics', 'Physics']",Engineering,auditory,2024-08-29
+ST0998,3.3763474242421596,"['Business', 'Computer Science']",Physics,kinesthetic,2024-10-25
+ST0999,3.058070815684323,"['Physics', 'Business']",Mathematics,kinesthetic,2024-09-01
