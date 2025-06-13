@@ -1,47 +1,50 @@
-# Campus Query Chatbot
+# Course Recommendation System
 
-A rule-based chatbot designed to answer common student questions about campus facilities, schedules, and events.
+This project implements an intelligent course recommendation system that suggests personalized study plans based on student performance, interests, and career goals.
 
 ## Features
-
-- Answers questions about library hours
-- Provides information about course schedules
-- Shares details about campus events
-- Handles general campus facility queries
-
-## Setup Instructions
-
-1. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Download required NLTK data:
-```python
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('stopwords')
-```
-
-4. Run the chatbot:
-```bash
-python chatbot.py
-```
-
-## Usage
-
-Simply run the chatbot and type your questions about campus facilities, schedules, or events. The chatbot will respond based on its knowledge base.
+- Student performance analysis
+- Interest-based course recommendations
+- Career goal alignment
+- Personalized study plans
+- Performance prediction
 
 ## Project Structure
-
-- `chatbot.py`: Main chatbot implementation
-- `knowledge_base.py`: Contains campus information and response templates
+- `data_generator.py`: Generates simulated student data
+- `recommendation_system.py`: Core recommendation algorithms
+- `main.py`: Main application entry point
 - `requirements.txt`: Project dependencies
-- `README.md`: Project documentation 
+
+## Setup
+1. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the application:
+   ```bash
+   python main.py
+   ```
+
+## Data Structure
+The system uses the following student attributes:
+- Academic performance (GPA, course grades)
+- Interest areas
+- Career goals
+- Previous course history
+- Learning style preferences
+
+## Algorithms
+The recommendation system uses:
+- Collaborative filtering
+- Content-based filtering
+- Reinforcement learning for optimization
+- Performance prediction models
+
+# AI-Powered-Academic-Advisor
